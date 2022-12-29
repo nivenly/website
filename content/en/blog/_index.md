@@ -1,5 +1,5 @@
 ---
-title: "Hachyderm Blog"
+title: "The Nivenly Foundation Blog"
 linkTitle: "Blog"
 menu:
   main:

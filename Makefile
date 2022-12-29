@@ -17,13 +17,10 @@
 default: help
 
 hugo: ## Build the hugo site for CI
-	npm install postcss-cli
+	npm ci
 	hugo --minify
 
-submodule: ## Build the git submodule
-	git submodule update --init --recursive
-
-dev: submodule ## Run the local server
+dev: ## Run the local server
 	hugo serve .
 
 .PHONY: help
