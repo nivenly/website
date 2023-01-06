@@ -1,3 +1,28 @@
+// Nivenly Brand Fonts
+@font-face {
+  font-family: GothamBold;
+  src: url('/fonts/GothamBold.ttf');
+  font-style: normal;
+  font-weight: 500;
+  font-display: fallback;
+}
+@font-face {
+  font-family: GothamBook;
+  src: url('/fonts/GothamBook.ttf');
+  font-style: normal;
+  font-weight: 500;
+  font-display: fallback;
+}
+
+h1,h2,h3,h4,h5
+{
+  font-family: "GothamBold" !important;
+}
+
+p,ul,ol {
+  font-family: "GothamBook" !important;
+}
+
 // --------------------------------------------------
 // remove whitespace after footer
 // --------------------------------------------------
