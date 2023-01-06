@@ -1,9 +1,43 @@
-+++
-title = "The Nivenly Foundation"
-linkTitle = "The Nivenly Foundation"
-+++
+---
+title: "The Nivenly Foundation"
+linkTitle: "Home"
+menu:
+  main:
+    weight: 10
+---
 
-{{< blocks/cover title="The Nivenly Foundation" image_anchor="top" height="full" color="blue" >}}
+
+{{< blocks/cover title="The Nivenly Foundation" image_anchor="top">}}
 <div class="mx-auto">
+    <a class="btn btn-lg btn-primary mr-3 mb-4" href="{{< relref "/about" >}}">
+		Learn More <i class="fas fa-arrow-alt-circle-right ml-2"></i>
+	</a>
+	<a class="btn btn-lg btn-secondary mr-3 mb-4" href="https://donate.stripe.com/test_aEUeXaeAZdCnecw3cc">
+		Donate (Test Link, Not Live) <i class="fab fa-dollar ml-2 "></i>
+	</a>
+    <p class="lead mt-5">The Nivenly Foundation brings sustainability, ownership, and control to open source projects and communities around the globe.</p>
+    {{< blocks/link-down color="info" >}}
 </div>
 {{< /blocks/cover >}}
+
+{{% blocks/lead color="primary" %}}
+We set the precedent for member-owned and democratically-governed technical organizations. We offset the impact of profit-driven economies through the use of a nonprofit association that protects and supports the contributors and maintainers of technical projects, establishing sustained independence from the corporations that use them.
+
+{{% /blocks/lead %}}
+
+{{< blocks/section color="dark" type="features">}}
+{{% blocks/feature icon="fa-lightbulb" title="Learn about Nivenly" url="/about" %}}
+As well as our example site, there's a growing number of projects using Docsy for their doc sites.
+{{% /blocks/feature %}}
+
+
+{{% blocks/feature icon="fa-brands fa-github" title="Contributions welcome!" url="https://github.com/Nivenly" %}}
+All of our code is open source! Check us out on GitHub
+{{% /blocks/feature %}}
+
+
+{{% blocks/feature icon="fa-brands fa-mastodon" title="Follow us on Mastodon!" url="https://hachyderm.io/@Nivenly" %}}
+Find out about all the cool things we are doing
+{{% /blocks/feature %}}
+
+{{< /blocks/section >}}

@@ -1,0 +1,13 @@
+// Hide name in Nav and increase logo size. Souce: https://www.docsy.dev/docs/adding-content/lookandfeel/#styling-your-project-logo-and-name
+.td-navbar .navbar-brand__name {
+    display: none;
+}
+
+.td-navbar .navbar-brand svg {
+    height: 50px;
+}
+
+.td-navbar-cover
+{
+    background: $primary !important;
+}
