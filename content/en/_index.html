@@ -1,28 +1,27 @@
----
-title: "The Nivenly Foundation"
-linkTitle: "Home"
-menu:
-  main:
-    weight: 10
-    pre: "<i class='fas fa-home pr-2'></i>"
----
++++
+title = "The Nivenly Foundation"
+linkTitle = "Home"
+[menu.main]
+weight = 10
+pre = "<i class='fas fa-home pr-2'></i>"
++++
 
 <!-- Hero section -->
-{{<blocks/cover title="Nivenly Foundation" image_anchor="center" color="primary">}}
-  <div class="mx-auto">
-    <p class="lead mt-5">The Nivenly Foundation brings sustainability, ownership, and control to open source projects
-      and communities around the globe.</p>
-    <a class="btn btn-lg btn-dark mr-3 mb-4" href="/docs/started/">
-      Learn More <i class="fas fa-arrow-alt-circle-right ml-2"></i>
-    </a>
-    <a class="btn btn-lg btn-secondary mr-3 mb-4" href="https://donate.stripe.com/test_aEUeXaeAZdCnecw3cc">
-      Donate (Test Link, Not Live) <i class="fas fa-dollar-alt ml-2"></i>
-    </a>
-    <div class="mx-auto mt-5">
-      {{<blocks/link-down color="light" id="overview">}}
-    </div>
+{{% blocks/cover title="Nivenly Foundation" image_anchor="center" color="primary" %}}
+<div class="mx-auto">
+  <p class="lead mt-5">The Nivenly Foundation brings sustainability, ownership, and control to open source projects
+    and communities around the globe.</p>
+  <a class="btn btn-lg btn-dark mr-3 mb-4" href="/about">
+    Learn More <i class="fas fa-arrow-alt-circle-right ml-2"></i>
+  </a>
+  <a class="btn btn-lg btn-secondary mr-3 mb-4" href="https://donate.stripe.com/test_aEUeXaeAZdCnecw3cc">
+    Donate (Test Link, Not Live) <i class="fas fa-dollar-alt ml-2"></i>
+  </a>
+  <div class="mx-auto mt-5">
+    {{% blocks/link-down color="light" id="overview" %}}
   </div>
-  {{</blocks/cover>}}
+</div>
+{{% /blocks/cover %}}
 
 
 <div id="overview">
