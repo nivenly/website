@@ -58,10 +58,9 @@ footer {
           top: 0;
           z-index: 33;
           padding: 10px;
-          height: 95px;
-          background: white;
-          border: 2px solid #4279f4;
           border-top: none;
+          width: 70px;
+          height: 70px;
   
           @include media-breakpoint-down(md) {
             width: 80px;
@@ -164,10 +163,6 @@ footer {
   
   nav.foldable-nav .ul-1 .with-child>input:checked~label:hover:before {
     transform: rotate(90deg) !important;
-  }
-
-  .navbar-brand__logo > svg, .navbar-logo > svg {
-    width: 95px;
   }
 
   .navbar-brand__name
