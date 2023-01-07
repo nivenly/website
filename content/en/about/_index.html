@@ -1,12 +1,108 @@
----
-title: About Nivenly
-linkTitle: About
-menu:
-  main:
-    weight: 10
----
++++
+title = "About Nivenly"
+linkTitle = "About"
+
+[menu.main]
+weight = 20
+pre = "<i class='fas fa-people-group pr-2'></i>"
++++
+
+{{% blocks/cover title="About Nivenly" image_anchor="bottom" height="min" color="primary"%}}
+{{% blocks/link-down color="info" id="pageContent"%}}
+{{% /blocks/cover %}}
 
 
-{{< blocks/cover title="About Nivenly" image_anchor="bottom" height="min" color="blue">}}
+<section id="pageContent">
+  <div class="container">
 
-{{< /blocks/cover >}}
+    <div id="accordion">
+      <div class="card">
+        <div class="card-header" id="headingOne">
+          <h5 class="mb-0">
+            <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true"
+              aria-controls="collapseOne">
+              Quintessence Anx - Executive Director
+            </button>
+          </h5>
+        </div>
+
+        <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
+          <div class="card-body">
+            <!--/docs/images/people/quintessence-anx.png-->
+            <img src="https://via.placeholder.com/150x150.png" class="rounded float-right border-primary-dark"
+              draggable="false" style="padding: 2rem;" alt="Photo of Quintessence" />
+            <p>Quintessence Anx is the Executive Director of Nivenly Foundation.
+              She took a circuitous path through the tech industry, acquiring a
+              variety of skills and perspectives. Most recently she served as a
+              Developer Advocate at Logz.io, AppDynamics, and PagerDuty. This
+              experience honed her ability to communicate to large numbers of
+              people, learn business strategies, and understand how to bridge
+              the needs of users, community, and a source entity (be it a
+              company or a large project with contributors).</p>
+          </div>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header" id="headingTwo">
+          <h5 class="mb-0">
+            <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo"
+              aria-expanded="false" aria-controls="collapseTwo">
+              Kris Nóva - President
+            </button>
+          </h5>
+        </div>
+        <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+          <div class="card-body">
+            <!--/docs/images/people/kris-nova.png-->
+            <img src="https://via.placeholder.com/150x150.png" class="rounded float-right border-primary-dark"
+              draggable="false" style="padding: 2rem;" alt="Photo of Kris" />
+            <p>
+              Kris Nóva is the President of the Nivenly Foundation. She is an author,
+              engineer, public speaker and transgender activist best known for her work
+              on Aurae, Linux, and Kubernetes.<br>
+              <br>
+              She specializes in Linux kernel security, distributed systems, infrastructure
+              management, and open source software engineering. In 2022 she authored
+              “Hacking Capitalism”, an independently published book about modeling the
+              tech industry as a system. In 2017 she co-authored “Cloud Native Infrastructure”
+              with Justin Garrison, published by O’Reilly Media.<br>
+              <br>
+              Nóva is well known for her open source work. She has created many successful
+              open source projects and has contributed to projects like Linux, Kubernetes, Rust, Go, etc.<br>
+              <br>
+              Today she works as a principal engineer at GitHub focusing on infrastructure platform engineering.
+            </p>
+          </div>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header" id="headingThree">
+          <h5 class="mb-0">
+            <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree"
+              aria-expanded="false" aria-controls="collapseThree">
+              Dominic Hamon - Vice-President
+            </button>
+          </h5>
+        </div>
+        <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
+          <div class="card-body">
+            <img src="https://via.placeholder.com/150x150.png" class="rounded float-right border-primary-dark"
+              draggable="false" style="padding: 2rem;" alt="Photo of Dominic" />
+
+            <p>Dominic Hamon is the Vice-President of Nivenly Foundation. Dominic’s 20+ years of experience have
+              taken him from Theoretical Physics and Maths research, through AAA video game development with the
+              likes of EA and Lucasarts, to large-scale distributed system development for Twitter and Google. He
+              currently works as a senior engineering manager on the Google Play Console platform team, and has also
+              worked on YouTube, Chrome, and Apache Mesos.<br>
+              <br>
+              His history of contributions to open source outside of Mesos and Chrome includes Linux, LLVM, Perl,
+              creation of a Dart port of the Box2D library, technical leadership for M-Lab, and long-term maintenance
+              of the Google Benchmark library.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</section>

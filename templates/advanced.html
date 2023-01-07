@@ -1,0 +1,39 @@
++++
+title = "Title of Page Here"
+linkTitle = "Title of Page Here"
+[menu.main]
+weight = 20
+pre = "<i class='fas fa-people-group pr-2'></i>"
++++
+
+<!-- Hero section -->
+{{% blocks/cover title="Title of Page Here" image_anchor="center" color="primary" %}}
+  <div class="mx-auto">
+    <p class="lead mt-5">Body text here</p>
+    <a class="btn btn-lg btn-dark mr-3 mb-4" href="/button/left">
+      Left Button <i class="fas fa-arrow-alt-circle-right ml-2"></i>
+    </a>
+    <a class="btn btn-lg btn-secondary mr-3 mb-4" href="/button/right">
+      Right Button <i class="fas fa-dollar-alt ml-2"></i>
+    </a>
+    <div class="mx-auto mt-5">
+      {{<blocks/link-down color="light" id="overview">}}
+    </div>
+  </div>
+{{% /blocks/cover %}}
+
+
+<div id="overview">
+  <div class="contain">
+    <h4 class="section-head">Section header</h4>
+    <p>
+      Section content
+    </p>
+  </div>
+</div>
+
+<section id="pageContent">
+  <div class="container">
+    {{% shared/projects %}}
+  </div>
+</section>
