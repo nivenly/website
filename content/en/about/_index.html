@@ -1,108 +1,80 @@
 +++
-title = "About Nivenly"
-linkTitle = "About"
-
+title = "About The Nivenly Foundation"
+linkTitle = "About Us"
 [menu.main]
-weight = 20
-pre = "<i class='fas fa-people-group pr-2'></i>"
+weight = 30
+pre = "<i class='fas fa-file-signature pr-2'></i>"
 +++
-
-{{% blocks/cover title="About Nivenly" image_anchor="bottom" height="min" color="primary"%}}
-{{% blocks/link-down color="info" id="pageContent"%}}
+{{% blocks/cover title="About Us" image_anchor="bottom" height="min" color="primary"%}}
+{{% blocks/link-down color="info" %}}
 {{% /blocks/cover %}}
+{{% blocks/section type="section" color="white" %}}
+# Mission Statement
+The Nivenly Foundation brings sustainability, ownership, and control to open source projects and communities around the
+globe. We set the precedent for member-owned and democratically-governed technical organizations. We offset the negative
+impact of profit-driven economies through the use of a nonprofit association that protects and supports the contributors
+and maintainers of technical projects, establishing sustained independence from the corporations that use them.
+
+Nivenly believes that all members of a project should own the project and share in its success.
 
 
-<section id="pageContent">
-  <div class="container">
+# History
 
-    <div id="accordion">
-      <div class="card">
-        <div class="card-header" id="headingOne">
-          <h5 class="mb-0">
-            <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true"
-              aria-controls="collapseOne">
-              Quintessence Anx - Executive Director
-            </button>
-          </h5>
-        </div>
+In June 2022, Kris Nóva started the Aurae runtime project as the culmination of her lifetime of experience developing,
+deploying, securing, and maintaining distributed production infrastructure in enterprise-scale cloud architectures.
+However, she wasn’t convinced she had found an appropriate home to continue incubating the project.
 
-        <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
-          <div class="card-body">
-            <!--/docs/images/people/quintessence-anx.png-->
-            <img src="https://via.placeholder.com/150x150.png" class="rounded float-right border-primary-dark"
-              draggable="false" style="padding: 2rem;" alt="Photo of Quintessence" />
-            <p>Quintessence Anx is the Executive Director of Nivenly Foundation.
-              She took a circuitous path through the tech industry, acquiring a
-              variety of skills and perspectives. Most recently she served as a
-              Developer Advocate at Logz.io, AppDynamics, and PagerDuty. This
-              experience honed her ability to communicate to large numbers of
-              people, learn business strategies, and understand how to bridge
-              the needs of users, community, and a source entity (be it a
-              company or a large project with contributors).</p>
-          </div>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header" id="headingTwo">
-          <h5 class="mb-0">
-            <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo"
-              aria-expanded="false" aria-controls="collapseTwo">
-              Kris Nóva - President
-            </button>
-          </h5>
-        </div>
-        <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
-          <div class="card-body">
-            <!--/docs/images/people/kris-nova.png-->
-            <img src="https://via.placeholder.com/150x150.png" class="rounded float-right border-primary-dark"
-              draggable="false" style="padding: 2rem;" alt="Photo of Kris" />
-            <p>
-              Kris Nóva is the President of the Nivenly Foundation. She is an author,
-              engineer, public speaker and transgender activist best known for her work
-              on Aurae, Linux, and Kubernetes.<br>
-              <br>
-              She specializes in Linux kernel security, distributed systems, infrastructure
-              management, and open source software engineering. In 2022 she authored
-              “Hacking Capitalism”, an independently published book about modeling the
-              tech industry as a system. In 2017 she co-authored “Cloud Native Infrastructure”
-              with Justin Garrison, published by O’Reilly Media.<br>
-              <br>
-              Nóva is well known for her open source work. She has created many successful
-              open source projects and has contributed to projects like Linux, Kubernetes, Rust, Go, etc.<br>
-              <br>
-              Today she works as a principal engineer at GitHub focusing on infrastructure platform engineering.
-            </p>
-          </div>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header" id="headingThree">
-          <h5 class="mb-0">
-            <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree"
-              aria-expanded="false" aria-controls="collapseThree">
-              Dominic Hamon - Vice-President
-            </button>
-          </h5>
-        </div>
-        <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
-          <div class="card-body">
-            <img src="https://via.placeholder.com/150x150.png" class="rounded float-right border-primary-dark"
-              draggable="false" style="padding: 2rem;" alt="Photo of Dominic" />
+Aurae is a remote process execution utility that aims to be the most effective way to schedule workloads such as
+containers and virtual machines on a single node using a common API intended to work with many orchestration systems and
+networking providers.
 
-            <p>Dominic Hamon is the Vice-President of Nivenly Foundation. Dominic’s 20+ years of experience have
-              taken him from Theoretical Physics and Maths research, through AAA video game development with the
-              likes of EA and Lucasarts, to large-scale distributed system development for Twitter and Google. He
-              currently works as a senior engineering manager on the Google Play Console platform team, and has also
-              worked on YouTube, Chrome, and Apache Mesos.<br>
-              <br>
-              His history of contributions to open source outside of Mesos and Chrome includes Linux, LLVM, Perl,
-              creation of a Dart port of the Box2D library, technical leadership for M-Lab, and long-term maintenance
-              of the Google Benchmark library.
-            </p>
-          </div>
-        </div>
-      </div>
-    </div>
+Aurae is influenced by Nóva’s distributed systems experience and security response in enterprise cloud. The hope is that
+by bringing a better set of remote controls to a node, Aurae can unlock brilliant higher order distributed systems in
+the future. Nóva will be presenting a deep technical analysis of Aurae live at FOSDEM in February of 2023.
 
-  </div>
-</section>
+In April of 2022, Kris Nóva began serving an independent Mastodon instance in her basement along with her Twitch
+community, fellow Aurae contributors and maintainers, and other container, Rust, and Go hackers. She named the instance
+“Hachyderm” as a play on words combining “Hacking” and “Pachyderm”. In November of 2022, a mass exodus from Twitter
+shook the social media industry, pushing control of feeds and timelines away from centralized services and into smaller,
+independently-managed, decentralized entities. Hachyderm absorbed some of this migration, growing first from less than
+1,000 users to 30,000 users in November and then to 40,000 users the following month. Today, Hachyderm is a thriving
+social media community moderated and operated by a small group of volunteers whose efforts, technical prowess, and
+amazing collaborative skills have inspired even greater desire for a sustainable open source support model.
+
+Today, Kris Nóva is thrilled to announce the Nivenly Foundation: a member-owned 501(c)(3) registered nonprofit
+corporation on a mission a nonprofit Private Foundation qualified under IRC § 501(c)(3) whose mission is to bring
+sustainability, ownership, and control to open source projects and communities around the globe.
+
+The industry is thirsty for a community balance. She believes the place to gain traction is with an ownership model
+built around the idea there is more to open source software than corporations. “An industry without a balance in
+ownership is no different than a hostile corporate monopoly without competition”, cited Nóva. “We want the people
+working on the projects to be the same people who own and benefit from the success.” For the industry to sustain the
+next generations, she believes balance must be struck between the individuals who build and maintain projects, and the
+corporations that leverage them. This begins by placing ownership and control back in the hands of the open source
+community and maintainers.
+
+The founders' dream for the Nivenly Foundation is to provide an exciting and equitable future for the next generation of
+technologists. The Nivenly Foundation will establish a path forward for general computer science to thrive without
+profit-driven entities dictating its direction. We dream that one day, young and marginalized technologists will
+experience ownership and equity in the industry. The Nivenly Foundation will provide a crucible in which computer
+science, altruism, and collaborative methodology can thrive without the influence of corporate product marketing tactics
+that distract from projects’ directions and destroy their potential. We believe that well-maintained and well-operated
+open source projects are the key to unlock this future.
+
+The Nivenly Foundation will employ a cooperative and egalitarian ownership model. The community members that maintain
+and contribute to the projects will own the projects and have a democratic voice in the decision-making process. The
+details of how this democratic process will function will be published and vetted with the community in the coming
+weeks. Nivenly’s obligation is to serve the general public interest without profit-driven obligations to its own
+members; thus, the Foundation will operate without financial bias or “pay-to-play” tactics. The Foundation will support
+educational resources, training, and research for public computer science, analogous to how the International Space
+Station serves as an international laboratory.
+
+The Aurae runtime project and the Hachyderm social media platform will be the first projects to come under the
+stewardship of the Nivenly Foundation. Quintessence Anx will join Nivenly as the Executive Director. Dominic Hamon joins
+Kris Nóva as the initial Board of Directors, with additional Directors expected to be named in January. Their
+biographies can be found below.
+
+The first order of business will be establishing the governance and financial model designed to support the maintainers
+of the projects while giving a democratic vote and voice to all members of the foundation.
+
+{{% /blocks/section %}}
