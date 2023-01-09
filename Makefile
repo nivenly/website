@@ -14,7 +14,7 @@ hugo: ## Build the hugo site for CI
 dev: ## Run the local server
 	hugo serve .
 
-new: submodule dev
+new: submodule dev ## Updates and init's the submodule(s) before running hugo server
 
 .PHONY: help
 help:  ## 🤔 Show help messages for make targets
