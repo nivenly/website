@@ -93,5 +93,3 @@ Shared components reside in `layouts/shortcodes/shared` directory.
 When utilizing a shortcode, please ensure that you utilize the `{{% shared/name_here %}}` format.
 - Use of the `{{< shared/name_here >}}` (`<` instead of `%`) is not recommended as it is not compatible with more html autoformatters
 
-
-FIXME - this is a test
