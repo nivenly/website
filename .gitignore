@@ -3,4 +3,5 @@ node_modules*
 resources/_gen*
 .idea
 .DS_Store
+.smbdelete*
 .hugo_build.lock

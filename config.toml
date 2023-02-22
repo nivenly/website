@@ -89,7 +89,7 @@ section = ["HTML", "print", "RSS"]
 
 [params]
 copyright = "The Nivenly Foundation"
-privacy_policy = "https://nivenly.org/privacy-policy"
+privacy_policy = "/privacy-policy"
 
 # First one is picked as the Twitter card image if not set on page.
 # images = ["images/project-illustration.png"]
@@ -158,8 +158,8 @@ sidebar_search_disable = false
 [params.ui.feedback]
 enable = false
 # The responses that the user sees after clicking "yes" (the page was helpful) or "no" (the page was not helpful).
-yes = 'Glad to hear it! Please <a href="https://github.com/USERNAME/REPOSITORY/issues/new">tell us how we can improve</a>.'
-no = 'Sorry to hear that. Please <a href="https://github.com/USERNAME/REPOSITORY/issues/new">tell us how we can improve</a>.'
+yes = 'Glad to hear it! Please <a href="https://github.com/nivenly/website/issues/new">tell us how we can improve</a>.'
+no = 'Sorry to hear that. Please <a href="https://github.com/nivenly/website/issues/new">tell us how we can improve</a>.'
 
 # Adds a reading time to the top of each doc.
 # If you want this feature, but occasionally need to remove the Reading time from a single page, 
@@ -170,6 +170,27 @@ enable = false
 [params.links]
 # End user relevant links. These will show up on left side of footer and in the community page if you have one.
 # [[params.links.user]]
+[[params.links.user]]
+  name = "Nivenly Foundation"
+  url = "https://nivenly.org/"
+  icon = "fa fa-home"
+  desc = "Nivenly Foundation"
+# Developer relevant links. These will show up on right side of footer and in the community page if you have one.
+[[params.links.developer]]
+  name = "Nivenly Foundation on Hachyderm"
+  url = "https://hachyderm.io/@nivenly"
+  icon = "fa-brands fa-mastodon"
+  desc = "Nivenly Foundation"
+[[params.links.developer]]
+  name = "Nivenly Foundation on GitHub"
+  url = "https://github.com/nivenly"
+  icon = "fa-brands fa-github"
+  desc = "Nivenly Foundation on GitHub"
+[[params.links.developer]]
+  name = "Email the Nivenly Foundation"
+  url = "mailto:info@nivenly.org"
+  icon = "fa fa-envelope"
+  desc = "Email the Nivenly Foundation"
 
 # hugo module configuration
 
@@ -178,7 +199,7 @@ enable = false
 # replacements = "github.com/google/docsy -> ../../docsy"
 [module.hugoVersion]
 extended = true
-min = "0.75.0"
+min = "0.75.0" # FIXME - we will likely need to update this to the latest version of Hugo, v 109 or so. This is working locally but You Know.
 [[module.imports]]
 path = "github.com/google/docsy"
 disable = false
