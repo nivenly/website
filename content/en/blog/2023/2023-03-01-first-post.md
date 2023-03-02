@@ -6,49 +6,115 @@ author: Quintessence ([@quintessence](https://hachyderm.io/@quintessence))
 description: Announcing the Nivenly Foundation
 ---
 
-# 🎉 Hello and Welcome 🎉
-
+<br /><br />
 <center>
+<h1>🎉 Hello and Welcome 🎉</h1>
+
 <img src="/blog/assets/logo/nivenly-foundation-logo-with-text.png"
      width="450px"
      alt="Nivenly Foundation blue and yellow flame logo with black text reading Nivenly Foundation">
 </center>
 
-Today marks the official "release" of the Nivenly Foundation. Some quick Q&A:
+# Everything everywhere all at once <!-- omit in toc -->
 
-##### Holy ♛♞♜♟ it's happening?
+Today marks the official "release" of the Nivenly Foundation.
 
-It's happening.
+We are very excited to have finally reached this juncture in our journey. This means we've opened up
+the ability to do direct donations and are also opening up memberships. There is a lot of information
+we are going to provide in this post, please use the table of contents below to jump around as needed:
 
-##### What does this mean for literally everything?
+<!-- Table of Contents managed by Markdown All In One VSCode Plugin -->
+<!-- Please do not manually edit -->
 
-I gotchu! Read on.
+- [What is the Nivenly Foundation?](#what-is-the-nivenly-foundation)
+  - [Why a co-op?](#why-a-co-op)
+    - [Membership?](#membership)
+  - [Why a non-profit?](#why-a-non-profit)
+  - [What is governance and support?](#what-is-governance-and-support)
+- [Donations and how they differ from memberships](#donations-and-how-they-differ-from-memberships)
+  - [How to donate and where to buy swag](#how-to-donate-and-where-to-buy-swag)
+    - [The Swag Store](#the-swag-store)
+    - [Donations](#donations)
+- [What's next?](#whats-next)
 
-## Nivenly: the short version
 
-The Nivenly Foundation is a member-owned, democratically-governed, non-profit technical organization
-that focuses on building an equitable future for technology communities. There are three paths to
-membership: as an individual / general member, as a project maintainer, and as a trade organization (companies,
-businesses, and similar organizations, foundations, groups, events, etc.). Trade organizations can
-be either for or non-profit.
+## What is the Nivenly Foundation?
 
-Each member type represents a chamber in the Nivenly senate: general members, project members, and trade
-members. General members will take part in general elections where a quorum percentage of the membership
-must vote. Both projects and trade organizations will appoint delegates to vote and otherwise
-participate in governance. The model has been structured such that there are checks and balances built in:
-no one entity can singularly override the other two, and no one project or organization can unduly
-influence the outcomes of elections. The goal is to create an environment where general members, projects maintainers,
-and sponsoring companies can have a healthy, effective, working relationship.
+The Nivenly Foundation is a non-profit co-op that we're creating to provide governance
+and support to open source projects. Each concept in this sentence was chosen with care,
+the ultimate goal is to create a place where individuals, project maintainers, and project
+sponsoring entities can build healthly, effective, and sustainable working relationships
+that nuture the positive benefits that each group brings while offsetting common sources
+of friction, bias, and unbalanced influence that often create discord, block progress,
+and are not sustainable in the long term.
 
-For more information about the governance model, please check
-out our [governance page](/governance/).
+### Why a co-op?
 
-## Memberships, donations, and what this means for people, projects, and entities
+[The co-operative struture](https://en.wikipedia.org/wiki/Cooperative) allows for members to partake
+in decisions that govern the co-operative entity. In our case as a foundation, that means that **_all_**
+members work together to make decisions and find solutions. We chose this structure specifically for this
+reason: we wanted to create a place where everyone that uses, builds, and finances open source software to have a voice
+in decisions that impact them. In fact, "**uses, builds, and finances**" is how we codify our membership types.
 
-First things first: memberships are different from direct donations.
+#### Membership?
+
+Membership is a core concept to co-ops, as the co-op defines one or more member classes and then also
+defines the mechanics of how they raise concerns, make decisions, reach consensus, change policy, and so on.
+
+Here at Nivenly, there are three types of membership: general membership, project membership, and trade
+embership (use, build, and finance - with some overlap). All members must adhere to to 
+[the Nivenly Covenant](/covenant/) and membership itself is managed via [Open Collective](https://opencollective.com/nivenly-foundation).
+
+The distinctions for each group are:
+
+##### General membership <!-- omit in toc -->
+
+General memberships are open to all individuals that are willing to adhere to the [Nivenly covenant](/covenant/).
+You do not need to write code, provide donations (beyond member dues), supply in-kind donations, or do literally
+anything else to become a general member. General members vote in general elections, and the outcome of general
+elections is decided by a majority vote. At minimum, the quorum percentage of general members must participate
+in the election for the results to be valid. 
+
+General memberships are currently $7 / mo. (USD) and are available on [our Open Collective page](https://opencollective.com/nivenly-foundation).
+
+##### Project membership  <!-- omit in toc -->
+
+Project memberships are for project maintainers of projects supported by the Nivenly Foundation. Project members 
+must also adhere to the [Nivenly covenant](/covenant/). There are no dues or fees associated with project membership:
+project members are supporting Nivenly just by contributing to their project(s).
+
+For information about becoming a project member please email us at [info@nivenly.org](mailto:info@nivenly.org).
+
+##### Trade membership <!-- omit in toc -->
+
+Trade memberships are for companies, businesses, and similar organizations, foundations, and entities, that wish
+to support the Nivenly Foundation and partake in governance. Trade memberships are purchased and price is
+based on the size of the entity. The pricing structure is on [our governance page](/governance/).
+
+For information about becoming a trade member please email us at [info@nivenly.org](mailto:info@nivenly.org).
+
+##### More information on governance <!-- omit in toc -->
+
+For more information about the governance model, please check out our [governance page](/governance/).
+We're also going to be updating our docs in the coming weeks and months with more detail about governance
+application processes, and more - so stay tuned!
+
+### Why a non-profit?
+
+TBD - FIXME
+
+### What is governance and support?
+
+TBD - FIXME
+
+## Donations and how they differ from memberships
+
+Key takeaway: memberships are different from direct donations.
 
 **<u>Donations</u>**: When you as an individual or entity want to support the Nivenly Foundation
-but _do not_ want to take part in governance. Support can come via direct or in-kind donations.
+but _do not_ want to take part in governance (or would like to donate beyond your member dues).
+Support can come via direct or in-kind donations and can be to Nivenly as the parent org or made
+directly to any of its projects such as Hachyderm and Aurae. 
 
 **<u>Memberships</u>**: When you as an individual, project, or entity want to support the Nivenly
 Foundation and _absofragginlutely do_ want to partake in governance. There are a few different paths to membership
@@ -68,9 +134,10 @@ Swag for Nivenly, Hachyderm, and Aurae is available on our swag store:
 
 [Nivenly Foundation Swag Store](https://nivenly.myspreadshop.com/) <i class="fa-solid fa-shirt"></i>
 
-Right now there are a lot of options as we let SpreadShirt do its thing. When you click on
-clothing types and sizes, as well as non-clothing items like accessories, the results that
-show will only be for our store and not site-wide for SpreadShirt.
+Right now there are a lot of options as we let SpreadShirt do its thing, though we might slim it down
+once we know what the preferred options are as there are a lot of options that might be overwhelming.
+When you use the top nav bar to select a particular type of clothing or accessory (stickers, mugs, etc.) the results are
+for only the Nivenly store, not site-swide for SpreadShirt.
 
 #### Donations
 
@@ -101,38 +168,7 @@ Complete list of ways to donate to Nivenly and Nivenly's projects:
   * [One-time Nivenly Donation](https://donate.stripe.com/3cs8Apb7R6eK3a83cd) <i class="fa-solid fa-credit-card"></i>
   * Only for one-time donations; cannot configure recurring donations at this time.
 
-### Memberships
-
-As mentioned there are three paths to membership at Nivenly. Here is a little more about each. We are currently
-using [our Open Collective page](https://opencollective.com/nivenly-foundation) to manage our memberships and also
-provide transparency for our funds.
-
-##### General members
-
-General memberships are open to all individuals that are willing to adhere to the [Nivenly covenant](/covenant/).
-You do not need to write code, provide donations (beyond member dues), supply in-kind donations, or do literally
-anything else to be a general member.
-
-General memberships are currently $7 / mo. (USD)
-
-##### Project members
-
-Project members are the maintainers for projects being supported by the Nivenly Foundation. Project maintainers
-must also adhere to the [Nivenly covenant](/covenant/). There are no dues or fees associated with project membership:
-project members are supporting Nivenly just by contributing to their project(s).
-
-For information about becoming a project member please email us at [info@nivenly.org](mailto:info@nivenly.org).
-
-##### Trade members
-
-Trade members are for companies, businesses, and similar organizations, foundations, and entities, that wish
-to support the Nivenly Foundation and partake in governance. Trade memberships are purchased and price is
-based on the size of the entity. (See our [governance page](/governance/) page for more information.)
-
-
-For information about becoming a trade member please email us at [info@nivenly.org](mailto:info@nivenly.org).
 
 ## What's next?
 
-We're going to be adding more information to this site as well as completing paperwork with the IRS for
-501(c)3 status. Stay tuned!
+TBD FIXME - though I do thihnk saying we're pursuing the 501(c)3 status is important.
