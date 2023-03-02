@@ -63,7 +63,7 @@ id = "UA-00000000-0"
 [languages.en]
 title = "The Nivenly Foundation"
 description = """
-The Nivenly Foundation brings sustainability, ownership, and control to open source projects and communities around the globe.  We set the precedent for member-owned and democratically-governed technical organizations. We offset the impact of profit-driven economies through the use of a nonprofit association that protects and supports the contributors and maintainers of technical projects, establishing sustained independence from the corporations that use them.
+The Nivenly Foundation brings sustainability, autonomy, and control to open source projects and communities around the globe.  We set the precedent for member-owned and democratically-governed technical organizations. We offset the impact of profit-driven economies through the use of a nonprofit association that protects and supports the contributors and maintainers of technical projects, establishing sustained independence from the corporations that use them.
 
 Nivenly believes that all members of a project should own the project, and share in the successes of a project.
 """
