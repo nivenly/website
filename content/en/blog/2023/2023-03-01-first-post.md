@@ -62,9 +62,10 @@ differentiators are for the member types.
 Membership is a core concept to co-ops, as the co-op defines one or more member classes and then also
 defines the mechanics of how they raise concerns, make decisions, reach consensus, change policy, and so on.
 
-Here at Nivenly, there are three types of membership: general membership, project membership, and trade
-membership (use, build, and finance - with some overlap). All members must adhere to 
-[the Nivenly Covenant](/covenant/) and membership itself is managed via [Open Collective](https://opencollective.com/nivenly-foundation).
+Here at Nivenly, there are four types of membership: general membership, project membership, fellowships,
+and trade membership (use, build, support, and finance - with some overlap). All members must adhere to 
+[the Nivenly Covenant](/covenant/) and membership itself is managed via 
+[Open Collective](https://opencollective.com/nivenly-foundation).
 
 ##### General membership <!-- omit in toc -->
 
@@ -83,6 +84,12 @@ must also adhere to the [Nivenly covenant](/covenant/). There are no dues or fee
 project members are supporting Nivenly just by contributing to their project(s).
 
 For information about becoming a project member, please email us at [info@nivenly.org](mailto:info@nivenly.org).
+
+##### Fellowship membership  <!-- omit in toc -->
+
+Fellowships are granted to members of the community who the Board of Directors feel should be given the opportunity
+to by even more involved in the governance of the foundation.  There are no dues or fees associated with fellowship
+membership.
 
 ##### Trade membership <!-- omit in toc -->
 
@@ -150,7 +157,7 @@ Key takeaway: memberships are different from direct donations.
 **<u>Donations</u>**: When you as an individual or entity want to support the Nivenly Foundation
 but _do not_ want to take part in governance (or would like to donate beyond your member dues).
 Support can come via direct or in-kind donations and can be to Nivenly as the parent org or made
-directly to any of its projects such as Hachyderm and Aurae. 
+directly to any of its projects such as [Hachyderm](https://hachyderm.io) and [Aurae](https://aurae.io). 
 
 **<u>Memberships</u>**: When you as an individual, project, or entity want to support the Nivenly
 Foundation and _absofragginlutely do_ want to partake in governance. There are a few different paths
@@ -217,6 +224,8 @@ our first year overall.
 
 * Baking into the bylaws how new projects are onboarded into the organization. Effectively: "which member types vote and on what".
 * Building process around, and getting started on, our technical opinion pieces.
+
+Of course, these bylaws and any future changes to them will continue to be made in public.
 
 The opinion pieces are something that we strongly feel will benefit the community. Essentially, we're looking to
 create deep analyses of different, relevant, technologies to help the community grow their industry-specific knowledge.
