@@ -15,7 +15,7 @@ description: Announcing the Nivenly Foundation
      alt="Nivenly Foundation blue and yellow flame logo with black text reading Nivenly Foundation">
 </center>
 
-# Everything everywhere all at once <!-- omit in toc -->
+# Introducing Nivenly <!-- omit in toc -->
 
 Today marks the official "release" of the Nivenly Foundation.
 
