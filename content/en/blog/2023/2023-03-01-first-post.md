@@ -116,7 +116,7 @@ could create a conflict of interest with their employer. Even the most progressi
 potential contributor's parent company, we are intentionally trying to avoid situations that would be common
 sources for conflicts of interest.
 
-In the same way that being a for-profit could have created a conflict of interest for potential
+In the same way that being a for-profit may introduce a conflict of interest for potential
 volunteers and contributors on an individual level, it also could have created a conflict of interest at
 the "organizational" or "company" level. We want to be able to collaborate with existing companies, businesses,
 and non-profit organizations, foundations, and so forth. It is our belief that heavy competition is the death
