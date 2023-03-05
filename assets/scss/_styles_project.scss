@@ -62,17 +62,19 @@ footer {
           width: 70px;
           height: 70px;
   
-          @include media-breakpoint-down(md) {
-            width: 80px;
-            height: auto;
-            padding: 6px;
+          @include media-breakpoint-down(lg) {
+            max-width: 55px;
+            max-height: 55px;
+            padding: 0px;
+            margin-top: 0px;
+            margin-bottom: 10px;
           }
         }
       }
     }
   
     .navbar-nav {
-      @include media-breakpoint-down(md) {
+      @include media-breakpoint-down(lg) {
         font-size: .875rem;
         .dropdown {
           min-width: inherit;
@@ -87,7 +89,7 @@ footer {
     .td-sidebar__inner {
       padding-top: 30px;
   
-      @include media-breakpoint-down(md) {
+      @include media-breakpoint-down(lg) {
         padding-top: 10px;
       }
     }
