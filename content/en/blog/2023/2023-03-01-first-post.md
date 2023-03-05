@@ -112,7 +112,7 @@ How does being a non-profit "make it easier" for each of these?
 
 It is common for many employers to need to have clauses in their employee contracts about
 not having secondary jobs, receiving payment for other work, or basically otherwise engaging in activity that
-could create a conflict of interest with their employer. As a non-profit that is not competing with a
+could create a conflict of interest with their employer. Even the most progressive and relaxed employee IP agreements such as GitHub's [Balanced Employee IP Agreement](https://github.com/github/balanced-employee-ip-agreement) (BEIPA) call out specific rules for navigating IP with regard to non-employer activities.  As a non-profit that is not competing with a
 potential contributor's parent company, we are intentionally trying to avoid situations that would be common
 sources for conflicts of interest.
 
