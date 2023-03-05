@@ -143,7 +143,7 @@ to contribute in a low risk way that avoids indirect competition. To put it anot
 themselves do not need to create an entity that would put their volunteers and maintainers at risk of
 violating any of their employment contracts, just to get certain legal protections met for the project.
 
-## Donations and how they differ from memberships
+## Donations are not memberships
 
 Key takeaway: memberships are different from direct donations.
 
