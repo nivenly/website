@@ -179,7 +179,7 @@ for only the Nivenly store, not site-wide for SpreadShirt.
 
 There are a few places to donate directly to the Nivenly Foundation and its member
 projects. Since many of our members have GitHub accounts, one of the easier ways
-to donate is via Nivenly's GitHub Sponsor page:
+to donate is via Nivenly's GitHub Sponsor page: [Nivenly GitHub Sponsor](https://github.com/sponsors/nivenly)
 
 
 That said, the Nivenly Foundation and its member projects all have their own sponsor
