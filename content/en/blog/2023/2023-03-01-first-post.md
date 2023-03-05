@@ -150,7 +150,7 @@ Key takeaway: memberships are different from direct donations.
 **<u>Donations</u>**: When you as an individual or entity want to support the Nivenly Foundation
 but _do not_ want to take part in governance (or would like to donate beyond your member dues).
 Support can come via direct or in-kind donations and can be to Nivenly as the parent org or made
-directly to any of its projects such as Hachyderm and Aurae. 
+directly to any of its projects such as [Hachyderm](https://hachyderm.io) and [Aurae](https://aurae.io).
 
 **<u>Memberships</u>**: When you as an individual, project, or entity want to support the Nivenly
 Foundation and _absofragginlutely do_ want to partake in governance. There are a few different paths
@@ -217,6 +217,8 @@ our first year overall.
 
 * Baking into the bylaws how new projects are onboarded into the organization. Effectively: "which member types vote and on what".
 * Building process around, and getting started on, our technical opinion pieces.
+
+Of course, these bylaws and any future changes to them will continue to be made in public.
 
 The opinion pieces are something that we strongly feel will benefit the community. Essentially, we're looking to
 create deep analyses of different, relevant, technologies to help the community grow their industry-specific knowledge.
