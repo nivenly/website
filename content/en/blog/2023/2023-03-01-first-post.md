@@ -130,7 +130,7 @@ for-profit status.
 
 ### What is governance and legal support?
 
-We provide assistance with:
+We provide our open source projects and services assistance with:
 
 * Managing funding
 * Community management
