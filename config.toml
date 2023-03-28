@@ -89,7 +89,7 @@ section = ["HTML", "print", "RSS"]
 
 [params]
 copyright = "The Nivenly Foundation"
-privacy_policy = "/privacy-policy"
+#privacy_policy = "/privacy-policy"
 
 # First one is picked as the Twitter card image if not set on page.
 # images = ["images/project-illustration.png"]
