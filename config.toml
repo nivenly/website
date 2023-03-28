@@ -89,7 +89,6 @@ section = ["HTML", "print", "RSS"]
 
 [params]
 copyright = "The Nivenly Foundation"
-#privacy_policy = "/privacy-policy"
 
 # First one is picked as the Twitter card image if not set on page.
 # images = ["images/project-illustration.png"]
@@ -199,7 +198,7 @@ enable = false
 # replacements = "github.com/google/docsy -> ../../docsy"
 [module.hugoVersion]
 extended = true
-min = "0.75.0" # FIXME - we will likely need to update this to the latest version of Hugo, v 109 or so. This is working locally but You Know.
+min = "0.75.0"
 [[module.imports]]
 path = "github.com/google/docsy"
 disable = false
