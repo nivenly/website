@@ -80,11 +80,13 @@ Federation is the exchange of messages through a common language, in this case, 
 Currently, federation can be prevented by adding a URL to the platform’s blocklist,  which will, in turn, refuse to accept activity from the site requesting communication, disallowing federation to happen.  
 
 
-While serviceable, this process has several challenges, such as: • Exposing users to harmful content as means of filtering. 
+While serviceable, this process has several challenges, such as: 
 
+- Exposing users to harmful content as means of filtering. 
 - Each problematic site must be manually added 
 - No mechanism for automation, which requires blocklists to be manually  maintained and updated 
-- No tool to validate connection requests at the user level for harmful content • Underdeveloped blocklist maintenance options to fine-tune what sites can communicate based on the administrator's discretion.
+- No tool to validate connection requests at the user level for harmful content
+- Underdeveloped blocklist maintenance options to fine-tune what sites can communicate based on the administrator's discretion.
 
 Integration of The Bad Space’s features into backend functionality will improve  not only the administration experience but the individual users as well by: 
 
