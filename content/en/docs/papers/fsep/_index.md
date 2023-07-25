@@ -8,7 +8,7 @@ description: >
   make it easier to make safety the default?
 ---
 
-Federation Safety Enahncement Project by Ro
+Federation Safety Enahncement Project by [Ro](https://roiskinda.cool/) <a href="https://ubiqueros.com/@Are0h"><i class="fa-brands fa-mastodon"></i></a>
 
 **Table of Contents**
 
@@ -27,7 +27,6 @@ Federation Safety Enahncement Project by Ro
 - [Conclusion](#conclusion)
 - [More information](#more-information)
     - [How to make changes](#how-to-make-changes)
-    - [About the author](#about-the-author)
 
 ## Context and Summary
 
@@ -205,10 +204,13 @@ Integrating modular tools such as The Bad Space allows sites both large and smal
 
 #### How to make changes
 
-If you are looking to make a small change, please feel free to open a PR or Issue on GitHub
-directly. If you're looking to make more substantial changes, either changing the interpretation
-of existing wording or wanting to add/remove existing concepts, please reach out to us at FIXME.
+This paper uses GitHub <i class="fa-brands fa-github"></i> to make revisions.
 
-#### About the author
+* For minor changes: please [make an Issue or PR directly](https://github.com/nivenly/website/)
+* For more significant changes: please either [open an Issue on the repo](https://github.com/nivenly/website/) or email
+  us at [info@nivenly.org](mailto:info@nivenly.org) so we can connect and coordinate with Ro.
 
-FIXME
+In this case, a "minor change" would be catching any typos or any language changes
+that correct grammar and syntax but do not change the meaning or interpretation of
+concepts being conveyed. If you are looking to add or remove concepts, please open a
+GitHub Issue and/or email us to start that conversation.
