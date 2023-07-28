@@ -1,16 +1,20 @@
 ---
 title: Haidra Joins the Nivenly Foundation
 linkTitle: Welcoming Haidra 
-date: 2023-07-25
+date: 2023-07-28
 author: Quintessence ([@quintessence](https://hachyderm.io/@quintessence))
 description: Welcoming the Haidra project to the Nivenly Foundation!
 ---
+
+<center>
+  <h1>Welcoming Haidra!</h1>
+  <img src="/img/haidra-transparent-600.png" />
+</center>
 
 We are very excited to share that Haidra has joined the [Nivenly Foundation](https://nivenly.org/) as
 a member project. Through its membership, Haidra and its maintainers will
 receive governance and legal support of the Foundation to help it remain
 a fully open and neutral community as it grows. 
-
 
 # What is Haidra? 
 
