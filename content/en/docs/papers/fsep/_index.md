@@ -8,7 +8,9 @@ description: >
   make it easier to make safety the default?
 ---
 
-Federation Safety Enahncement Project by [Ro](https://roiskinda.cool/) <a href="https://ubiqueros.com/@Are0h"><i class="fa-brands fa-mastodon"></i></a>
+Title: Federation Safety Enahncement Project<br />
+v1.0 Author: [Roland X. Pulliam](https://roiskinda.cool/) <a href="https://ubiqueros.com/@Are0h"><i class="fa-brands fa-mastodon"></i></a><br />
+Contributors:  [The Bad Space](https://thebad.space/), [IFTAS](https://about.iftas.org/), [Nivenly Foundation](https://nivenly.org), [Oliphant.social](https://oliphant.social/), as well as many individuals who provided feedback and expertise. Thank you!
 
 **Table of Contents**
 
@@ -25,8 +27,11 @@ Federation Safety Enahncement Project by [Ro](https://roiskinda.cool/) <a href="
   - [Blocklist UI](#blocklist-ui)
   - [Following UI Integration](#following-ui-integration)
 - [Conclusion](#conclusion)
+- [Version History](#version-history)
 - [More information](#more-information)
     - [How to make changes](#how-to-make-changes)
+    - [Where to have longer form discussions for major changes and feedback](#where-to-have-longer-form-discussions-for-major-changes-and-feedback)
+    - [What do you need to get started](#what-do-you-need-to-get-started)
 
 ## Context and Summary
 
@@ -46,7 +51,7 @@ The Fediverse is [defined](https://en.wikipedia.org/wiki/Fediverse) as (a portma
 
 There have been several protocols that have been used to achieve federation between servers. This document will focus on [Activity Pub](https://www.w3.org/TR/activitypub/#social-web-working-group), an officially W3C-recognized standard based on the Activity Streams 2.0 format.  
 
-The rise of the Activity Pub protocol has spawned several independent projects capable of speaking to each other, i.e., Misskey, Mastodon, Funkwhale, and  PeerTube, to name a few. 
+The rise of the Activity Pub protocol has spawned several independent projects capable of speaking to each other, i.e., Misskey, Mastodon, Funkwhale, and PeerTube, to name a few. 
 
 This has enabled an exciting new chapter of social media networking where individuals can band together to create dynamic online experiences that are not subject to the changing [whims](https://mashable.com/article/vine-shut-down) of centralized services. 
 
@@ -71,11 +76,17 @@ These features can be integrated into existing platforms to enhance the overall 
 
 ### Service Feature Integration 
 
-The first step in this process is to make defederated systems aware of the features provided by services such as The Bad Space, specifically its public search API and dynamically created and updated blocklists. 
+The first step in this process is to make decentralized systems aware of the features provided by services such as The Bad Space, specifically its public search API and dynamically created and updated blocklists. 
 
 Federation is the exchange of messages through a common language, in this case, Activity Pub. A note is created using a specific format, and platforms that understand that format can read and respond to the original message. When this connection happens, sites are officially federated with each other.
 
-![federation process](federation-visual.png)
+<img src="federation-visual.png"
+     width="650px"
+     alt="Image has two groups of people. On the left is a smiling Black woman and on the
+     right is a group of four smiling people - a Black man, an Indian woman, a woman wearing
+     a Hijab, and a Japanese man with his hair styled in a Samurai bun." />
+     <br />
+<small>FIG. 01 - FEDERATION PROCESS</small>
 
 Currently, federation can be prevented by adding a URL to the platform’s blocklist,  which will, in turn, refuse to accept activity from the site requesting communication, disallowing federation to happen.  
 
@@ -104,7 +115,6 @@ The administration onboarding process can be enhanced by leveraging the addition
 | ID | FEATURE | PRIORITY |
 |:--|:--|:--|
 | 1.1 | At setup time, administrators should be able to upload a deny list or select a default to deny list provided. For MVP, only one deny list provider needs to be supported in this list (The Bad Space). Ultimately, the goal is to allow users to choose from one of several vetted tier 0 lists. | P1 |
-
 | 1.2 | At setup time, administrators should be able to select whether or not they want the default deny list to auto-update. If the admin selects “yes,” the list should attempt to auto-update once every 24 hrs.  | P1 |
 
 ### Deny List Management
@@ -148,13 +158,28 @@ An additional UI component can be added to this flow to inform the administrator
 
 The first panel of the new component will describe what The Bad Space is, what it does, and how it will be used. It will also contain an element to confirm approval by the administrator to use The Bad Space’s feature set in the platform's experience. If the administrator declines, the flow will continue with the default onboarding process.
 
-![ONBOARDING BLOCKLIST PANEL](Blocklist%20Panel%20One@1x.png)
+<img src="Blocklist%20Panel%20One@1x.png"
+     width="650px"
+     alt="Image of a mock admin panel. Panel has options to import a blocklist or
+          enable an integration with The Bad Space." />
+     <br />
+<small>FIG. 02 - ONBOARDING BLOCKLIST PANEL 1</small>
 
 Upon consenting to the system to use the additional features, a second panel will be revealed to ask if they would like the dynamic blocklist automatically imported from The Bad Space to populate the system's blocklist with the option to check for updates.     
 
-![ONBOARDING BLOCKLIST PANEL 2](Blocklist%20Panel%20One%20Detail@1x.png)
+<img src="Blocklist%20Panel%20One%20Detail@1x.png"
+     width="650px"
+     alt="Image of a mock admin panel. Panel is showing mock options and short
+          description of a The Bad Space integration." />
+     <br />
+<small>FIG. 03 - ONBOARDING BLOCKLIST PANEL 2</small>
 
-![ONBOARDING PANEL PROGRESS](Blocklist%20Panel%20Two@1x.png)
+<img src="Blocklist%20Panel%20Two@1x.png"
+     width="650px"
+     alt="Image of a mock admin panel. In this view, an import of a dynamic blocklist
+          is in the process of uploading." />
+     <br />
+<small>Fig. 04 - ONBOARDING PANEL PROGRESS</small>
 
 If they accept, a progress indicator will show how many sites have been imported and alert upon completion. If the administrator declines the import, the system will default to standard blocklist behavior, and nothing will be imported. 
 
@@ -168,9 +193,19 @@ This UI will be upgraded to take advantage of the additional functionality provi
 
 Assuming permission was given to import the dynamic blocklist automatically,  and the affiliated sites will be listed as UI elements containing information describing the site's current status(silence or suspend) when it was last updated,  a visual indicator if screens of inappropriate content are available, and a link to its listing on The Bad Space.
 
-![ENHANCED BLOCKLIST MANAGEMENT](List%20Management@1x.png)
+<img src="List%20Management@1x.png"
+     width="650px"
+     alt="Image of a mock admin panel. This view shows a mock blocklist management panel,
+          with silenced and suspended sites indicated." />
+     <br />
+<small>Fig. 05 ENHANCED BLOCKLIST MANAGEMENT</small>
 
-![ENHANCED BLOCKLIST MANAGEMENT DETAIL](List%20Management%20Detail@1x.png)
+<img src="List%20Management%20Detail@1x.png"
+     width="650px"
+     alt="Image of a mock admin panel. In this view, in this view is a deeper detail of
+          a mock suspended site, showing a description and history log for the site." />
+     <br />
+<small>Fig. 06 ENHANCED BLOCKLIST MANAGEMENT DETAIL</small>
 
 Each listing will apply the status received from the imported blocklist, but it will give the administrator the ability to override a specific site by a visual toggle. This will not affect the imported blocklist and will only be applied to the site's blocklist implementation.
 
@@ -195,24 +230,44 @@ The inclusion of The Bad Space public search API provides the ability to validat
 
 If the user consents to the public API being allowed to search the URLs of incoming requests, the URL will be searched against The Bad Space database to see if it is present. If the URL is listed, a visual indicator will appear with the subscribe request with a link to the offending site to be confirmed by the user,  who can then choose if they will allow the account to connect. The request will be handled normally if the user does not consent to allow their incoming requests to be validated against the database. 
 
-![FOLLOW REQUEST ENHANCEMENT](Follow%20Request%20Management@1x.png)
+<img src="Follow%20Request%20Management@1x.png"
+     width="650px"
+     alt="Image of a mock user interface with a follow request. The follow requests indicate
+          which are from federating users and which is from a user from a moderated instance
+          and a public reason for moderation. " />
+     <br />
+<small>Fig. 07 - FOLLOW REQUEST ENHANCEMENT</small>
 
 ## Conclusion 
 To be sustainable long-term, decentralized social media platforms need unique solutions to meet the needs of a diverse and global community.  
 
 Integrating modular tools such as The Bad Space allows sites both large and small to increase their safety significantly with tools that make moderation easier and more manageable from an administration perspective and for the everyday user. 
 
+## Version History
+
+v1.0 - 10 August 2023 - Initial Release
+
 ## More information
 
 #### How to make changes
 
-This paper uses GitHub <i class="fa-brands fa-github"></i> to make revisions.
+* <i class="fa-solid fa-scroll"></i> Provide a comment or edit suggestion on [FSEP’s source Google Doc](https://docs.google.com/document/d/17YmAvRbk_wf6RhWhFbRya9SvUMpoY2s4ZRnt9bqLtwA/edit)
+* <i class="fa-solid fa-envelope"></i> Send us an email at [info@nivenly.org](mailto:info@nivenly.org)
+* <i class="fa-brands fa-github"></i> Open a [GitHub Issue or Pull Request](https://github.com/nivenly/website)
+    * If opening a Pull Request you need to sign the [Nivenly Contributor License Agreement](https://cla.nivenly.org) for us to merge the PR.
 
-* For minor changes: please [make an Issue or PR directly](https://github.com/nivenly/website/)
-* For more significant changes: please either [open an Issue on the repo](https://github.com/nivenly/website/) or email
-  us at [info@nivenly.org](mailto:info@nivenly.org) so we can connect and coordinate with Ro.
+Minor feedback is anything that clarifies, but does not significantly alter, intent and existing content. Typos, grammar, a bullet point that doesn’t render, adding a forgotten word or reworking a run-on sentence would all fall under “minor”.
 
-In this case, a "minor change" would be catching any typos or any language changes
-that correct grammar and syntax but do not change the meaning or interpretation of
-concepts being conveyed. If you are looking to add or remove concepts, please open a
-GitHub Issue and/or email us to start that conversation.
+Major feedback is anything that fundamentally creates, updates, or removes / deletes (CRUD) a concept in the document. An example of major feedback could be adding a new feature or criteria for Deny List Management or Onboarding.
+
+Minor feedback / changes will be merged regularly. Major feedback will only be merged if/when any discussions around them resolve and have a consensus.
+
+#### Where to have longer form discussions for major changes and feedback
+
+Right now, we're using comments in the Google Doc to ensure that the conversation is not only limited to those comfortable and confident using GitHub and its tools. For those who are, you may also [open a Discussion on our Nivenly Community repo](https://github.com/nivenly/community/discussions).
+
+We're actively working with the paper author and evaluating tools for a sustainable, shared, place for longer form discussion. We'll be giving NextCloud a live trial with the author Q&A. Depending on the outcome of the trial we may use that or a different tool as a more permanent home for Discussions.
+
+#### What do you need to get started
+
+Just you. It is important to Nivenly's mission that people have agency and empowerment to make their voices heard. While this requirements doc, and its resulting implementation, are collaborative you do not need to ask permission or go through a gatekeeper to get started.
