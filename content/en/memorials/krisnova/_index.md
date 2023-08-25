@@ -5,7 +5,7 @@ type: docs
 date: 2023-08-16
 ---
 
-Please add your contribution below via a [pull request](https://github.com/nivenly/website/edit/main/content/en/memorials/krisnova/_index.md) or email us directly: [admin@nivnely.org with the subject "Memorial"](mailto:admin@nivnely.org?subject=Memorial)
+Please add your contribution below via a [pull request](https://github.com/nivenly/website/edit/main/content/en/memorials/krisnova/_index.md) or email us directly: [info@nivnely.org with the subject "Memorial"](mailto:info@nivnely.org?subject=Memorial)
 
 <img src="./assets/kris-nova.jpg" alt="Kris Nóva sitting on a gray rock at the top of mountain with a blue sky and large cloud behind her." style="max-width:400px;"/>
 
