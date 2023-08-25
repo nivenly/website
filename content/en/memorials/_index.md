@@ -1,5 +1,5 @@
 ---
-title: "🕯️💐 Nivenly Foundation Memorials"
+title: "🕯️💐 Nivenly Foundation Memorials💐🕯️"
 type: docs
 linkTitle: "Memorials"
 ---
