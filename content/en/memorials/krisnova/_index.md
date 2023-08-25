@@ -5,9 +5,7 @@ type: docs
 date: 2023-08-16
 ---
 
-Dear community and friends,
-
-I thought it might be a good idea for us all to gather our thoughts, memories and stories of Nóva and what she meant to us in one place. Please add your contribution below, via a pull request.
+Please add your contribution below via a [pull request](https://github.com/nivenly/website/edit/main/content/en/memorials/krisnova/_index.md) or email us directly: [admin@nivnely.org with the subject "Memorial"](mailto:admin@nivnely.org?subject=Memorial)
 
 ![Kris Nova profile picture](./assets/kris-nova.jpg)
 
