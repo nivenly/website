@@ -14,6 +14,7 @@ Please add your contribution below via a [pull request](https://github.com/niven
 > Kris Nóva, of Seattle, Washington, passed away on Wednesday, August, 16, 2023, while climbing.
 > 
 > Nóva was an author, engineer, computer scientist, and alpinist best known for her work on Linux, Kubernetes, and Aurae.
+> 
 
 ## Other memorials, etc...
 
