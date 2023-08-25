@@ -4,8 +4,4 @@ type: docs
 linkTitle: "Memorials"
 ---
 
-At times, any community will lose valued members.
-
-This area is intended to rejoice in them, their contributions, and to keep their memory alive. Everyone listed here is remembered by the Nivenly community. It is hoped also that this site will help give family and friends some deeper insight into the work their loved ones have been doing and also a flavor of the relationships that they had developed with their colleagues in the community.
-
-Adapted from: [CNCF Memorials](https://github.com/cncf/memorials/tree/main)
+This memorials page is intended to celebrate the Nivenly community members we have lost along the way. Please read, rejoice, and contribute to the human experience of each loved one passed by adding your own or simply taking in what others have shared. We hope that this site will give family and friends a richer understanding of the person behind the name. May their memory live on.
