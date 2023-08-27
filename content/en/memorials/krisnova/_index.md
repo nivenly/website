@@ -27,3 +27,11 @@ As Hachyderm flourished, I had the privilege of stepping into a volunteer role w
 Nóva's legacy will forever be etched in my memory, characterized by her boundless compassion, boundless generosity, and unwavering dedication to assisting others. I will always be grateful to her for the way that she helped to change my life for the better. She will be missed.
 
 I leave everyone with [a link to the moment that Nóva got Aurae to spawn on Twitch.](https://www.twitch.tv/krisnova/clip/PoisedBreakableDiscSMOrc-_QCFBGYAmFzN7_yg)
+
+### Srikanth Tanniru
+Kris Nova is an incredible individual, who is no less than the founders of Kubernetes and many other luminaries in the cloud native computing ecosystem. 
+It is very saddening for many of the seekers and admirers of the knowledge and vision that Kris percolated in every project that was developed in live as well as in any FOSS of the cloud native infrastructure software ecosystem.
+
+Kris will be remembered for the all the impeccable contributions in Kubernetes ecosystem.
+
+RIP. 
