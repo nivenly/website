@@ -12,12 +12,13 @@ Please add your contribution below via a [pull request](https://github.com/niven
 ## Obituary and Tribute Book
 
 > Kris Nóva, of Seattle, Washington, passed away on Wednesday, August, 16, 2023, while climbing.
-> 
+>
 > Nóva was an author, engineer, computer scientist, and alpinist best known for her work on Linux, Kubernetes, and Aurae.
 
 ## Other memorials, etc...
 
 ### Arjun Bery
+
 Nóva served as a tremendous source of inspiration not only to me but also to countless others. Her multifaceted talents spanned engineering, writing, and education, but what truly set her apart was her profound kindness, compassion, and generosity.
 
 My initial encounter with Nóva occurred in November 2022 when I was introduced to a new Mastodon instance, [Hachyderm](https://hachyderm.io), which emphasized a tech-oriented focus and, most importantly, fostered a safe and supportive community. Intrigued, I created a new account to delve into this instance. Instantly, I found myself excited by the community that Nóva's presence helped build. Her warmth and inclusivity were refreshing, as she readily shared her time and expertise with everyone she encountered.
@@ -29,9 +30,23 @@ Nóva's legacy will forever be etched in my memory, characterized by her boundle
 I leave everyone with [a link to the moment that Nóva got Aurae to spawn on Twitch.](https://www.twitch.tv/krisnova/clip/PoisedBreakableDiscSMOrc-_QCFBGYAmFzN7_yg)
 
 ### Srikanth Tanniru
-Kris Nova is an incredible individual, who is no less than the founders of Kubernetes and many other luminaries in the cloud native computing ecosystem. 
+
+Kris Nova is an incredible individual, who is no less than the founders of Kubernetes and many other luminaries in the cloud native computing ecosystem.
 It is very saddening for many of the seekers and admirers of the knowledge and vision that Kris percolated in every project that was developed in live as well as in any FOSS of the cloud native infrastructure software ecosystem.
 
 Kris will be remembered for the all the impeccable contributions in Kubernetes ecosystem.
 
-RIP. 
+RIP.
+
+### Simone Margio
+
+I met Kris Nóva during a bad time in my life. I've never met her in person, but I've followed her projects, conferences, and live streams.
+
+In a short amount of time, she managed to make me understand that even when things can go wrong, there will always be a corner of happiness where we feel comforted and at ease. It could be family, friends, or working on something that you're passionate about.
+
+Whatever project she considered, Kris truly displayed her passion and love for something that brought her joy. Her contributions to the FOSS community, despite her job and numerous other commitments, serve as a lesson for anyone.
+
+These few lines are not just a thank you to Kris for sharing her time with us, but also a message for anyone navigating this sea called internet.
+Always pursue your passions and ideals, face dark moments with determination, and appreciate even the simplest things, just as Kris has done.
+
+Thank you for everything.
