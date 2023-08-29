@@ -59,7 +59,7 @@ I met her early on at some Kubernetes meet up. I don't remember which one. She w
 
 The first memory I want to share was a last minute decision to spend an extra night in Reykjavík on our way back from KubeCon in Copenhagen. It was so much fun exploring that amazing city, eating a great meal and going to all of the gear shops. She bought her first GoreTex Pro jacket there along with a Puffin themed buff. A Buffin, if you will. You could always count on Nóva for some first class puns.
 
-![Nova](https://github.com/nivenly/website/assets/1264109/8b17ec9b-4e92-40bc-ae73-6746462988d8)
+<img src="https://github.com/nivenly/website/assets/1264109/8b17ec9b-4e92-40bc-ae73-6746462988d8" alt="Kris Nóva smiling wearing a blue hat and hellow jacket" style="max-width:400px;"/>
 
 One more memory: recently Nóva and Q were staying at our vacation place and the dishwasher was broken.  Instead of just sending an email, she wrote out it out as a formal incident report. She always found a fun way to approach any situation.
 
