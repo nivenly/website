@@ -64,3 +64,19 @@ The first memory I want to share was a last minute decision to spend an extra ni
 One more memory: recently Nóva and Q were staying at our vacation place and the dishwasher was broken.  Instead of just sending an email, she wrote out it out as a formal incident report. She always found a fun way to approach any situation.
 
 More than anything I'm going to miss that mischevious look in her eye. She was always up to something and every time I talked to her she would excitedly tell me about her newest thing. She wasn't made to sit still.
+
+
+### Celeste Horgan
+
+The thing I remember most about Nóva was the insecurity.
+
+"Why?" you might say. "Is that really appropriate for a memorial page?" "Is that what you want to immortalize on the internet for all to see?" 
+
+I met Kris in social video calls over the course of the COVID-19 pandemic. It would be a year or more before I had the chance to make her acquaintance in person after. I didn't know, when I met her, the impact she'd had on the open source projects she'd been in, on the Kubernetes community, and on tech as a whole. She was just a very silly, very funny trans girl with an admirable poker face while telling a dirty joke and what was clearly a sharp-witted mind. Understanding Nóva's impact and contributions came much later for me. 
+
+So what stuck out was the insecurity. It was strange to see someone so clearly loved, so obviously welcomed into all sorts of social and professional groups somehow still live with the doubt that they were loved, had people that cared about them, had friends beyond the small handful she truly trusted. It resonated with me because I think I often feel the same, despite others telling me the same things I've listed here. 
+
+If there's one thing people can take from Kris' life and their passing: love always wins. You can't keep someone from loving - or being loved - even if the voices in their head tell them otherwise sometimes. Because Kris was clearly a friend to so many. They found their family and cherished it, as Quintessence can attest to. They inspired countless others with their actions, they way they showed up to situations professional and personal, and the bravery with which they lived their life. 
+
+Kris wasn't alone in this lifetime. She lived bravely and beautifully and was true to herself in the process. She will be missed.
+
