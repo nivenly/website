@@ -51,7 +51,7 @@ Always pursue your passions and ideals, face dark moments with determination, an
 
 Thank you for everything.
 
-# Joe Beda
+### Joe Beda
 
 I hesitate to call Nóva an elephant, but like that proverbial elephant, I don't think anyone had the full measure of her. She was an amazing person in so many ways. In fact, I don't think that any one of us knows all the ways that she was amazing.
 
