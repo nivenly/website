@@ -50,3 +50,17 @@ These few lines are not just a thank you to Kris for sharing her time with us, b
 Always pursue your passions and ideals, face dark moments with determination, and appreciate even the simplest things, just as Kris has done.
 
 Thank you for everything.
+
+# Joe Beda
+
+I hesitate to call Nóva an elephant, but like that proverbial elephant, I don't think anyone had the full measure of her. She was an amazing person in so many ways. In fact, I don't think that any one of us knows all the ways that she was amazing.
+
+I met her early on at some Kubernetes meet up. I don't remember which one. She wasn't, at that time, the happy and confident Nova that we know now. She was clearly unsure of herself and finding her place. Over the following years I got to know her better including having her come work with us at Heptio. Over that time I grew to love her as a friend. She brought so much energy and life to everywhere she went.
+
+The first memory I want to share was a last minute decision to spend an extra night in Reykjavík on our way back from KubeCon in Copenhagen. It was so much fun exploring that amazing city, eating a great meal and going to all of the gear shops. She bought her first GoreTex Pro jacket there along with a Puffin themed buff. A Buffin, if you will. You could always count on Nóva for some first class puns.
+
+<img src="https://github.com/nivenly/website/assets/1264109/8b17ec9b-4e92-40bc-ae73-6746462988d8" alt="Kris Nóva smiling wearing a blue hat and hellow jacket" style="max-width:400px;"/>
+
+One more memory: recently Nóva and Q were staying at our vacation place and the dishwasher was broken.  Instead of just sending an email, she wrote out it out as a formal incident report. She always found a fun way to approach any situation.
+
+More than anything I'm going to miss that mischevious look in her eye. She was always up to something and every time I talked to her she would excitedly tell me about her newest thing. She wasn't made to sit still.
