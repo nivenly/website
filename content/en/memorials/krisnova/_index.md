@@ -80,3 +80,8 @@ If there's one thing people can take from Kris' life and their passing: love alw
 
 Kris wasn't alone in this lifetime. She lived bravely and beautifully and was true to herself in the process. She will be missed.
 
+### Duffie Cooley
+
+I met Kris at a meetup in San Francisco. She was showing folks how to create helm charts. I knew right away that I wanted to be friends with her. She was knowledgable and was excited to share that knowledge and experience with everyone. This would be how we came to be friends and chosen family. We both believed that sharing knowledge and lifting everyone up is the way to make the world into the better place we all want and deserve!
+
+A couple of years later I met Kris again in the lobby of Heptio where we would get to work together on TGIK and in the community with things like kubicorn and the beginnings of cluster-api. I was so excited to see Kris roll in to the office that I think I pushed her out of comfort zone. We connected more often after that and saw in each other someone that we trusted and cared for. Kris and I had a few adventures together and had some time to hang out together while she was in California for a bit. I still don't want to believe that I've seen the last of our time together. In our lives I hope that we all meet a few folks that can be our chosen family. That we are always excited to see and care for us just like we are. Kris is one of those people that brings a smile to my face whenever I think of her. She was a force of nature. She had to be to overcome everything that came before and to show so many of us what was up ahead. 
