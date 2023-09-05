@@ -85,3 +85,18 @@ Kris wasn't alone in this lifetime. She lived bravely and beautifully and was tr
 I met Kris at a meetup in San Francisco. She was showing folks how to create helm charts. I knew right away that I wanted to be friends with her. She was knowledgable and was excited to share that knowledge and experience with everyone. This would be how we came to be friends and chosen family. We both believed that sharing knowledge and lifting everyone up is the way to make the world into the better place we all want and deserve!
 
 A couple of years later I met Kris again in the lobby of Heptio where we would get to work together on TGIK and in the community with things like kubicorn and the beginnings of cluster-api. I was so excited to see Kris roll in to the office that I think I pushed her out of comfort zone. We connected more often after that and saw in each other someone that we trusted and cared for. Kris and I had a few adventures together and had some time to hang out together while she was in California for a bit. I still don't want to believe that I've seen the last of our time together. In our lives I hope that we all meet a few folks that can be our chosen family. That we are always excited to see and care for us just like we are. Kris is one of those people that brings a smile to my face whenever I think of her. She was a force of nature. She had to be to overcome everything that came before and to show so many of us what was up ahead. 
+
+### Holden Karau
+
+I still remember the nervousness and excitement of meeting Nova for the first time in real life after a mutual friend introduced us.
+
+Nova was a fantastic influence on my life, from helping me become more confident with who I am to teaching me so many different things. She made it feel like I could do the things I was scared to try and that the scariness could be a part of the fun. Her energy was infectious while pursuing her passions, and Nova was equally excited and supportive to see others follow theirs. She gave me the nickname that I use to this day.
+
+I have many memories of her, from pulling an all-nighter in a new country to finish a demo together to driving down to southern California to get "the professor." She gave "the professor" his nickname after he graduated from her stuffed animal, Dr. Tigum's school. She was always up for silly adventures, like when we went to LAX together and explored all the lounges we could get into.
+
+Shortly after she moved to California, I was in a motorcycle crash, and she dropped everything to come and be by my side and help me recover (like learning how to walk again). Despite that, she still helped me return to doing what I loved, knowing and seeing the risks.
+
+She was a fantastic storyteller, from her improvised stories to how she taught to making the characters' voices in a book. Whenever we use one of her voices, read her books, run her software, watch her videos, or use something she taught us, she'll be with us.
+
+Nova did her best to support those she knew personally and the broader communities and she made the world a more welcoming place in her much too short time.
+
