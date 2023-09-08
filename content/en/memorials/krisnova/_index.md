@@ -100,3 +100,7 @@ She was a fantastic storyteller, from her improvised stories to how she taught t
 
 Nova did her best to support those she knew personally and the broader communities and she made the world a more welcoming place in her much too short time.
 
+### Amye Scavarda Perrin
+What I want to remember about Nóva was her enthusiasm.
+
+Anything she was going to do, it was at high volume and high velocity -- and really, your job was just to keep up. And in the end, I remember the version of her that found where she wanted to be. 
