@@ -114,8 +114,9 @@ The administration onboarding process can be enhanced by leveraging the addition
 
 | ID | FEATURE | PRIORITY |
 |:--|:--|:--|
-| 1.1 | At setup time, administrators should be able to upload a deny list or select a default to deny list provided. For MVP, only one deny list provider needs to be supported in this list (The Bad Space). Ultimately, the goal is to allow users to choose from one of several vetted tier 0 lists. | P1 |
+| 1.1 | At setup time, administrators should be able to upload a deny list or select a default to deny list provided by a deny list provider. For MVP, only one deny list provider needs to be supported in this list (The Bad Space). Ultimately, the goal is to allow users to choose a deny list from one of several vetted providers. | P1 |
 | 1.2 | At setup time, administrators should be able to select whether or not they want the default deny list to auto-update. If the admin selects “yes,” the list should attempt to auto-update once every 24 hrs.  | P1 |
+| 1.3 | At setup time, administrators should be able to view the techniques and policies used by each provider to create each deny list in full, during the setup process, from the list of providers, by clicking on links associated directly with each deny list and provider.  | P1 |
 
 ### Deny List Management
 
