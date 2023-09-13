@@ -247,6 +247,7 @@ Integrating modular tools such as The Bad Space allows sites both large and smal
 ## Version History
 
 v1.0 - 10 August 2023 - Initial Release
+v1.1 - 13 Sep 2023 - Minor updates and an added Onboarding requirement to see information about how the blocklist is built to improve informed choice.
 
 ## More information
 
