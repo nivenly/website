@@ -37,7 +37,7 @@ Contributors:  [The Bad Space](https://thebad.space/), [IFTAS](https://about.ift
 
 As collective dissatisfaction with centralized social media grows with how they encourage people’s worst impulses to monetize them for the benefit of a few,  decentralized options are getting more attention now than ever before. 
 
-The idea of decentralized platforms has marched into the collective consciousness of internet users globally. Adopting Activity Pub as a standard protocol has enabled online communities to create spaces tailored to their unique needs. 
+The idea of decentralized platforms has marched into the collective consciousness of internet users globally. Adopting ActivityPub as a standard protocol has enabled online communities to create spaces tailored to their unique needs. 
 
 However, with these new opportunities come new challenges. One of these new challenges is moderation. Though moderation was flawed on centralized platforms, there was at least a cursory attempt to curtail poor behavior by a team dedicated to these efforts. 
 
@@ -49,9 +49,9 @@ This document proposes a solution to this challenge that will attempt to normali
 ## Challenge 
 The Fediverse is [defined](https://en.wikipedia.org/wiki/Fediverse) as (a portmanteau of "federation" and "universe"), an ensemble of federated (i.e., interconnected) servers that are used for web publishing (i.e., social networking, microblogging, blogging, or websites) and file hosting, which, while independently hosted, can communicate with each other. 
 
-There have been several protocols that have been used to achieve federation between servers. This document will focus on [Activity Pub](https://www.w3.org/TR/activitypub/#social-web-working-group), an officially W3C-recognized standard based on the Activity Streams 2.0 format.  
+There have been several protocols that have been used to achieve federation between servers. This document will focus on [ActivityPub](https://www.w3.org/TR/activitypub/#social-web-working-group), an officially W3C-recognized standard based on the Activity Streams 2.0 format.  
 
-The rise of the Activity Pub protocol has spawned several independent projects capable of speaking to each other, i.e., Misskey, Mastodon, Funkwhale, and PeerTube, to name a few. 
+The rise of the ActivityPub protocol has spawned several independent projects capable of speaking to each other, i.e., Misskey, Mastodon, Funkwhale, and PeerTube, to name a few. 
 
 This has enabled an exciting new chapter of social media networking where individuals can band together to create dynamic online experiences that are not subject to the changing [whims](https://mashable.com/article/vine-shut-down) of centralized services. 
 
@@ -69,7 +69,7 @@ The obvious issue is that every site can have its blocklists, which is excellent
 
 To prioritize this [collaboration](https://codeberg.org/oliphant/blocklists) and make it easier to defederate with sites with a  history of poor behavior, The Bad Space was created, a searchable database populated with sites that multiple instances have blocked. While still in alpha, this site provides new opportunities to enhance safety and abuse mitigation and improve onboarding and blocklist maintenance by providing an easy way to keep blocklists up to date from a central location through dynamically created export lists and public API that can be used to search the database programmatically.
 
-These features can be integrated into existing platforms to enhance the overall experience on Activity Pub-enabled applications by automatically limiting the opportunity for bad-faith actors to interact.  
+These features can be integrated into existing platforms to enhance the overall experience on ActivityPub-enabled applications by automatically limiting the opportunity for bad-faith actors to interact.  
 
 
 ## Functional Requirements
@@ -78,7 +78,7 @@ These features can be integrated into existing platforms to enhance the overall 
 
 The first step in this process is to make decentralized systems aware of the features provided by services such as The Bad Space, specifically its public search API and dynamically created and updated blocklists. 
 
-Federation is the exchange of messages through a common language, in this case, Activity Pub. A note is created using a specific format, and platforms that understand that format can read and respond to the original message. When this connection happens, sites are officially federated with each other.
+Federation is the exchange of messages through a common language, in this case, ActivityPub. A note is created using a specific format, and platforms that understand that format can read and respond to the original message. When this connection happens, sites are officially federated with each other.
 
 <img src="federation-visual.png"
      width="650px"
@@ -223,7 +223,7 @@ If the automated option was not checked in the onboarding process, the component
 
 Following an account in the fediverse works the same as on any centralized platform: subscribing to the corresponding account so their updates appear in a  curated timeline. 
 
-The difference on a decentralized platform is that accounts not on the venue where the original requesting account is found can follow any account that used the activity pub protocol, allowing cross-site communication. 
+The difference on a decentralized platform is that accounts not on the venue where the original requesting account is found can follow any account that uses the ActivityPub protocol, allowing cross-site communication. 
 
 The challenge with this kind of open communication with no set standard of moderation is that it is difficult to filter through benign accounts in their attempts to connect and those that are not.  
 
@@ -246,8 +246,9 @@ Integrating modular tools such as The Bad Space allows sites both large and smal
 
 ## Version History
 
-v1.0 - 10 August 2023 - Initial Release
-v1.1 - 13 Sep 2023 - Minor updates and an added Onboarding requirement to see information about how the blocklist is built to improve informed choice.
+v1.0 - 10 August 2023 - Initial Release<br />
+v1.1 - 13 September 2023 - Minor updates and an added Onboarding requirement to see information about how the blocklist is built to improve informed choice.<br />
+v1.2 - 13 September 2023 - Syncing live version with minor edits in Google Doc
 
 ## More information
 
