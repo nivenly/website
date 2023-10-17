@@ -2,7 +2,7 @@
 title: "Hey, I've got questions..."
 linkTitle: Getting Answers to Nivenly Questions
 date: 2023-10-09
-author: alexlovelltroy ([@alexlovelltroy](https://hachyderm.io/@alexlovelltroy))
+author: Alex Lovell-Troy ([@alt](https://hachyderm.io/@alt))
 description: Answering Questions About the Nivenly Foundation
 ---
 
