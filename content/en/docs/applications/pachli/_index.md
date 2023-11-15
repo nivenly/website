@@ -10,7 +10,8 @@ description: >
 Title: Pachli - Nivenly Application<br />
 Submitted by: Nik Clayton<br />
 Project site: [pachli.app](https://pachli.app)<br />
-Project GitHub: [github.com/pachli/](https://github.com/pachli/)
+Project GitHub: [github.com/pachli/](https://github.com/pachli/)<br />
+Project Fedi: [@pachli@mastodon.social](https://mastodon.social/@pachli)
 
 **Table of Contents**
 
@@ -159,7 +160,6 @@ For maintainers and contributors, honestly, that’s not something I’ve given 
 For users the app integrates with Android’s screen reader (“Talkback”) and gesture navigation support. I also implemented features to allow the user to choose from a range of different accessible fonts, increase the font size through the app, and use colour schemes with greater contrast.
 
 Maintaining the quality of that coverage is a challenge. It’s not something there are currently Pachli-specific UX tests for. The standard Android tooling provides some support – warning that a UX element is missing content for a screen reader, or that a UX affordance is too small.
-
 
 # Needs
 
