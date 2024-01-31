@@ -13,7 +13,7 @@ that has allowed us to pass the most critical resolutions with an offline
 unanimous vote.  It is appropriate then that our first post of the New Year will
 be one announcing our new resolutions.
 
-## Resolution #30 -- Recognition of Kris Nóva
+## Recognition of Kris Nóva
 
 > **WHEREAS** it is deemed desirable and in the best interests of this 
 > organization that the following actions
@@ -43,7 +43,7 @@ be one announcing our new resolutions.
 > (2) Extend its sincere condolences to Kris Nóva’s family and friends over the 
 > loss of an amazing human;
 
-## Resolution #15 -- Nivenlyl as 501(c)(4)
+## Nivenly as 501(c)(4)
 
 > **WHEREAS**, it is deemed desirable and in the best interests of this 
 > organization that the following actions be taken by the Directors of this 
@@ -63,7 +63,7 @@ tax-deductible, however it operates much the same as a charitable organization
 otherwise.  It also allows us, should we want to in future, to engage in 
 lobbying and support candidates for office.
 
-## Resolution #31 -- dma as Interim President
+## dma as Interim President
 
 > **WHEREAS**, it is deemed desirable and in the best interests of this 
 > organization that the following actions be taken by the Directors of this 
