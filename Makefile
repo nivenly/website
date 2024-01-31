@@ -1,5 +1,7 @@
-
 default: help
+
+.PHONY: all
+all: submodule hugo dev
 
 issues: ## Find all the FIXMEs
 	grep -ri "FIXME" .
