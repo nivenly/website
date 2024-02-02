@@ -7,11 +7,11 @@ description: Recent resolutions passed by the board
 ---
 
 Since [losing our founding member and President, Kris Nóva](https://nivenly.org/blog/2023/08/19/an-announcement-regarding-kris-n%C3%B3va/),
-we have struggled to get together as a board to pass some much needed 
-resolutions.  Our secretary, Preston Doster, developed an alternative approach
-that has allowed us to pass the most critical resolutions with an offline
-unanimous vote.  It is appropriate then that our first post of the New Year will
-be one announcing our new resolutions.
+we have had some challenges getting together as a board to pass some much
+needed resolutions.  Our secretary, Preston Doster, developed an alternative
+approach that has allowed us to pass the most critical resolutions with an
+offline unanimous vote.  It is appropriate then that our first post of the New
+Year will be one announcing our new resolutions.
 
 ## Recognition of Kris Nóva
 
@@ -57,11 +57,10 @@ be one announcing our new resolutions.
 > under 501(c)(4) organization under the United States IRS Tax Code.
 
 After discussing the possibility of various options for registering the Nivenly 
-Foundation, including 501(c)(3) and 501(c)(4), we have decided to register as a
-501(c)(4), a "social welfare organization".  This means that donations are not 
-tax-deductible, however it operates much the same as a charitable organization 
-otherwise.  It also allows us, should we want to in future, to engage in 
-lobbying and support candidates for office.
+Foundation, including 501(c)(3), 501(c)(4), or 501(c)(6), we have decided to
+register as a 501(c)(4); a "social welfare organization".  While this means that
+donations are not tax-deductible, it allows us to operate much the same as a
+charitable organization otherwise.
 
 ## dma as Interim President
 
