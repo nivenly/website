@@ -31,6 +31,8 @@ This was a question we anticipated would be fairly split and indeed the results
 are, with exactly 50% voting "NO" to Haidra being either a regular or incubated
 project, and 50% voting "YES".
 
+![Haidra as a Nivenly project pie chart](/blog/2024/assets/haidra-as-a-nivenly-project.png)
+
 7% of the total (included in the 50% "NO" votes) voted that Haidra should 
 reapply in a year with any concerns mitigated.
 
@@ -42,6 +44,8 @@ Haidra in our next meeting.
 This was much less contentious: 78.6% voted "YES" for Pachli being adopted 
 as a Nivenly project.  50% of the total voted that it could be a member project 
 as opposed to an incubated project.
+
+![Pachli as a Nivenly project pie chart](/blog/2024/assets/pachli-as-a-nivenly-project.png)
 
 We don't yet have a definition of incubated project, so the Board will take 
 this advice and decide what to do with Pachli in our next meeting.
