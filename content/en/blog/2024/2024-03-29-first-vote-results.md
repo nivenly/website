@@ -25,21 +25,23 @@ how we are interpreting the results.
 
 ## New project proposals
 
-### Haidra: member project or incubated project?
+### Haidra: member project, incubated project, or not a good fit for Nivenly?
 
 This was a question we anticipated would be fairly split and indeed the results
 are, with exactly 50% voting "NO" to Haidra being either a regular or incubated
 project, and 50% voting "YES".
 
-7% voted that Haidra should reapply in a year with any concerns mitigated.
+7% of the total (included in the 50% "NO" votes) voted that Haidra should 
+reapply in a year with any concerns mitigated.
 
 The Board will take this advice from the membership and decide what to do with
 Haidra in our next meeting.
 
-### Pachli: member project or incubated project?
+### Pachli: member project, incubated project, or not a good fit for Nivenly?
 
-This was much less contentious, with 78.6% voting "YES" to Pachli being adopted 
-as a project.  50% voted that it could be a member project directly.
+This was much less contentious: 78.6% voted "YES" for Pachli being adopted 
+as a Nivenly project.  50% of the total voted that it could be a member project 
+as opposed to an incubated project.
 
 We don't yet have a definition of incubated project, so the Board will take 
 this advice and decide what to do with Pachli in our next meeting.
