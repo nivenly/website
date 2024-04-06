@@ -36,8 +36,9 @@ project, and 50% voting "YES".
 7% of the total (included in the 50% "NO" votes) voted that Haidra should 
 reapply in a year with any concerns mitigated.
 
-The Board will take this advice from the membership and decide what to do with
-Haidra in our next meeting.
+The Board has taken the results of this vote on board and have decided that
+**Haidra will not be a Nivenly project**.  This a decision made without 
+prejudice regarding future applications.
 
 ### Pachli: member project, incubated project, or not a good fit for Nivenly?
 
@@ -47,8 +48,9 @@ as opposed to an incubated project.
 
 ![Pachli as a Nivenly project pie chart](/blog/2024/assets/pachli-as-a-nivenly-project.png)
 
-We don't yet have a definition of incubated project, so the Board will take 
-this advice and decide what to do with Pachli in our next meeting.
+As we don't have a definition of incubated project, and the vote was so clear,
+the Board have taken the results of this vote and have decided that **Pachli
+will be adopted as a Nivenly project**.
 
 ## Feedback
 
@@ -58,8 +60,8 @@ Only 43% said they did partake in the member Q&A for either project proposal.
 
 The free feedback in this section points to Discord and GitHub not being the 
 best options for discussion, and the onboarding to Discourse off-putting.  There
-was also feedback that we could do a better job of reminding folks of what is 
-actively under discussion and this is actionable feedback that we've taken on 
+was also feedback that we could do a **better job of reminding folks of what is 
+actively under discussion** and this is actionable feedback that we've taken on 
 board.
 
 ### Do you have an account on Discourse?
@@ -74,8 +76,8 @@ issues with onboarding.
 split between "Either would get more engagement", "It doesn't matter", and "Not 
 sure".
 
-We will pursue a strategy for discussions in future where we try to cover 
-Discourse and GitHub and encourage both areas to get maximum coverage.
+We will pursue a strategy for discussions in future in which we **create 
+discussions on both Discourse and GitHub** and encourage both areas to get maximum coverage.
 
 ### If we made a member-only area of Discord, etc...
 
