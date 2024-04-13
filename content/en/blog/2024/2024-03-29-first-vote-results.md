@@ -1,7 +1,7 @@
 ---
 title: "First vote results"
 linkTitle: First vote results
-date: 2024-03-29
+date: 2024-04-13
 author: dma ([@dma](https://hachyderm.io/@dma))
 description: Results of the first Nivenly member vote
 ---
@@ -36,9 +36,8 @@ project, and 50% voting "YES".
 7% of the total (included in the 50% "NO" votes) voted that Haidra should 
 reapply in a year with any concerns mitigated.
 
-The Board has taken the results of this vote on board and have decided that
-**Haidra will not be a Nivenly project**.  This a decision made without 
-prejudice regarding future applications.
+The Board will take the results of this vote on board and a decision will soon 
+be published regarding Haidra's status as a Nivenly project.
 
 ### Pachli: member project, incubated project, or not a good fit for Nivenly?
 
@@ -48,9 +47,8 @@ as opposed to an incubated project.
 
 ![Pachli as a Nivenly project pie chart](/blog/2024/assets/pachli-as-a-nivenly-project.png)
 
-As we don't have a definition of incubated project, and the vote was so clear,
-the Board have taken the results of this vote and have decided that **Pachli
-will be adopted as a Nivenly project**.
+The Board will take the results of this vote on board and a decision will soon 
+be published regarding Pachli's status as a Nivenly project.
 
 ## Feedback
 
