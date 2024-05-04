@@ -32,7 +32,7 @@ take this opportunity to do so publically: As Nivenly we could have handled
 this better and have let db0 down.
 
 After the period allowed for discussion, we opened up the decision to the 
-membership.  [The results](TODO: link to results blog post) are somewhat 
+membership.  [The results](/blog/2024/04/13/first-vote-results/) are somewhat 
 underwhelming as we did not reach quorum, meaning that not enough of the 
 membership voted for the decision to be binding.  However, the direction given 
 was clear and we took that into account when the board met to vote.
@@ -42,8 +42,8 @@ vote and **not accept Haidra as a Nivenly project**.
 
 Personally, I think this is a missed opportunity as Haidra (and AI Horde more 
 specifically) offers access to what is promising to be revolutionary technology 
-without reliance on big tech companies and proprietary systems however putting 
-personal opinions aside in favour of the decision of our co-operative 
+without reliance on big tech companies and proprietary systems.  However, 
+putting personal opinions aside in favour of the decision of our co-operative 
 membership is the whole point of Nivenly.  Ideally, we would find a way forward
 for Haidra that would mollify the concerns raised by the membership but that 
 requires a deeper level of engagement from the membership than we've seen so 
