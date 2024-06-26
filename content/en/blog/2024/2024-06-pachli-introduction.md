@@ -66,3 +66,17 @@ If any of the above is interesting to you then please get in touch:
 - Mastodon: [@pachli@mastodon.social](https://mastodon.social/@pachli)
 - GitHub discussions: https://github.com/pachli/pachli-android/discussions
 - E-mail: [team@pachli.app](mailto:team@pachli.app)
+
+## Nivenly FAQ
+
+### What is the Nivenly Foundation?
+
+The Nivenly Foundation is a non-profit co-op organization that seeks to provide governance and support to Open Source Projects. Our belief is that more active collaboration will improve open source projects, and our goal is to provide spaces and supporting mechanisms that enable communities and maintainers to work together.
+
+### Do I need to be a Nivenly member to contribute code or docs to this project?
+
+No, you do not need to be a member of Nivenly to contribute to this project.
+
+### Do I need to be a Nivenly member to participate in governance decisions for this project?
+
+Yes, you do need to be a Nivenly member to participate in governance decisions.
