@@ -64,7 +64,7 @@ For example (these are not fully fleshed out proposals, just two examples of thi
 If any of the above is interesting to you then please get in touch:
 
 - Mastodon: [@pachli@mastodon.social](https://mastodon.social/@pachli)
-- GitHub discussions: https://github.com/pachli/pachli-android/discussions
+- GitHub discussions: [https://github.com/pachli/pachli-android/discussions](https://github.com/pachli/pachli-android/discussions)
 - E-mail: [team@pachli.app](mailto:team@pachli.app)
 
 ## Nivenly FAQ
