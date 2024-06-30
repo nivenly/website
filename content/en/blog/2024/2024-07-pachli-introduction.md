@@ -1,7 +1,7 @@
 ---
 title: "Pachli introduction"
 linkTitle: Pachli introduction
-date: 2024-06-28
+date: 2024-07-01
 author: nik ([@nikclayton](https://mastodon.social/@nikclayton))
 description: Introduction to the Pachli project
 ---
