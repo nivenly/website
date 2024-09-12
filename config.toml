@@ -194,6 +194,11 @@ enable = false
   icon = "fa-brands fa-linkedin"
   desc = "Nivenly Foundation on GitHub"
 [[params.links.developer]]
+  name = "Join our public Community Discord"
+  url = "https://discord.gg/rUQH4PAmY9"
+  icon = "fa-brands fa-discord"
+  desc = "Nivenly Foundation Community Discord"
+[[params.links.developer]]
   name = "Email the Nivenly Foundation"
   url = "mailto:info@nivenly.org"
   icon = "fa fa-envelope"
