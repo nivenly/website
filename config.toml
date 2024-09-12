@@ -184,6 +184,16 @@ enable = false
   icon = "fa-brands fa-github"
   desc = "Nivenly Foundation on GitHub"
 [[params.links.developer]]
+  name = "Nivenly Foundation on BlueSky"
+  url = "https://bsky.app/profile/nivenly.bsky.social"
+  icon = "fa-brands fa-bluesky"
+  desc = "Nivenly Foundation on BlueSky"
+[[params.links.developer]]
+  name = "Nivenly Foundation on LinkedIn"
+  url = "https://www.linkedin.com/company/nivenly-foundation/"
+  icon = "fa-brands fa-linkedin"
+  desc = "Nivenly Foundation on GitHub"
+[[params.links.developer]]
   name = "Email the Nivenly Foundation"
   url = "mailto:info@nivenly.org"
   icon = "fa fa-envelope"
