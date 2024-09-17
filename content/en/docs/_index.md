@@ -13,7 +13,7 @@ description: >
 
 Hello and welcome to our FAQ page. Here are the most commonly asked questions about
 the Nivenly Foundation and membership. We cover a lot of the below FAQs on 
-[our launch blog post](http://localhost:1313/blog/2023/03/01/nivenly.helloworld/) as well.
+[our launch blog post](/blog/2023/03/01/nivenly.helloworld/) as well.
 
 ## FAQ <!-- omit from toc -->
 
