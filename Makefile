@@ -4,7 +4,7 @@ default: help
 all: submodule hugo dev
 
 issues: ## Find all the FIXMEs
-	grep -ri "FIXME" .
+	grep -ri "FIXME" content/en/
 
 submodule: ## Initialize the submodule(s)
 	git submodule update --init --recursive
