@@ -36,7 +36,7 @@ creating systems and tools that make life better for others. Taken directly from
 her bio:
 
 > Any sufficiently complex system is a sociotechnical one, and so any
-> suffici```ently effective solution must be holistic in its approach and not
+> sufficiently effective solution must be holistic in its approach and not
 > neglect the core idea that–at the end of the day–humans are the ones
 > operating within these systems.
 
