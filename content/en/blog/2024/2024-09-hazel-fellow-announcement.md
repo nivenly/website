@@ -1,7 +1,7 @@
 ---
 title: "Nivenly's First Fellow: Hazel Weakly"
 linkTitle: "Nivenly Fellow: Hazel Weakly"
-date: 2024-09-23
+date: 2024-09-25
 author: Quintessence ([@quintessence](https://hachyderm.io/@hachyderm.io))
 description: |
   Nivenly announcement: Nivenly's First Fellow, Hazel Weakly!
