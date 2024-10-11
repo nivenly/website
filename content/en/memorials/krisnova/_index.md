@@ -114,3 +114,11 @@ She was a wonderful climbing partner: mega stoked, courageous, full of ideas and
 Though we only had a short time together, Nova left me with many gifts. I think of her every time I want a moment to be special, and I remember that you have to MAKE it special. You have the power to imbue time, places, objects, relationships with meaning. Through stories, names, presence, treating them with care. I learned that from watching Nova.
 
 I am so grateful to have had the opportunity to know her. To love her, and be loved by her. She showed me that it's not the amount of time together that defines your impact on another person. It's the depth of the connection you create during that time.
+
+### Niall
+
+I had been meaning to join Mastodon for ages. I never liked Twitter, it was so little of what it could have been and so much of what it could not. On coming across Hachyderm, I saw that flipped. Everything about it seems a celebration of inclusion and the present, rather than a toleration of diversity that will acquiesce to the pursuit of growth.
+When I joined, I looked at the #explore feed some folks to follow, came across @Nova and posted a kind of intro. Some folks kindly told me of her loss, which of course I was greatly saddened by. After emailing with her fiancée and reading a little about her - in particular her role in creating this community, and the Aurae (later, Nivenly) project, which I look forward greatly to exploring - I figured no better a way to build on my very slight connection than to add to her memorial. In doing so I hope get to know some of the community that she helped build. I am also curious whether anyone can answer my question - What's the longest combo of the things on your profile that you've done at the same time? ;)
+
+Thanks,<br />
+Niall.
