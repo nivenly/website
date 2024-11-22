@@ -207,12 +207,12 @@ Complete list of ways to donate to Nivenly and Nivenly's projects:
 
 ## What's next?
 
-The one long task we're working on in parallel with all of our other tasks: finalizing our 501(c)3 status with the IRS.
+The one long task we're working on in parallel with all of our other tasks: finalizing our 501(c)4 status with the IRS.
 This is a time-consuming process, so we'll announce, loudly and proudly, once it's complete rather than a series
 of iterative updates. Based on our prior experience with this it should take roughly a year to complete, but
 we'll be overjoyed if it happens sooner.
 
-Beyond the 501(c)3 status, there are a couple organizational things that we'll be working on in the upcoming months and during
+Beyond the 501(c)4 status, there are a couple organizational things that we'll be working on in the upcoming months and during
 our first year overall.
 
 * Baking into the bylaws how new projects are onboarded into the organization. Effectively: "which member types vote and on what".
