@@ -11,15 +11,7 @@ pre = "<i class='fas fa-gavel pr-2'></i>"
 <img style="float:right;" src="governance.png" width="480"/>
 
 <p>
-    Nivenly's governance is built on <strong>3 equally balanced branches of membership</strong> which make up the Nivenly senate.
-</p>
-
-<p>
-    Nivenly focuses on lightweight decisions, which we believe should be formed organically by each branch of governance. Each branch has direct control over a specific area.
-</p>
-
-<p>
-    In the event consensus cannot be formed by a vertical branch of governance, a special senate meeting is established in which 2/3 branches must agree.
+The Nivenly Foundation’s membership is structured to empower individuals and organizations to actively participate in our mission to foster open source software community and maintainer autonomy, project control, and long-term sustainability. This guide outlines the roles and responsibilities of the three key membership types: General Members, Project Members, and Trade Members, and provides an overview of how governance works within the foundation.
 </p>
 
 {{% blocks/link-down color="info" %}}
@@ -42,28 +34,22 @@ We asked ourselves how do we ensure that our community members have the tools an
 
 This is why Nivenly is structured much like a traditional [cooperative or co-op](https://en.wikipedia.org/wiki/Cooperative) and why we have called out a special **General Membership** class which is governed democratically.
 
-##### Who can be a general member?
+### Who is a General Member?
 
-Any interested person that abides by [The Nivenly Covenant](/covenant) is welcome to become an official member of the organization.
+#### Definition 
 
-##### How much does general membership cost?
+General Members are individuals who believe in and support the Nivenly Foundation’s overarching mission. They represent the foundation’s community at large and are integral to shaping its direction through participation in governance. General membership is open to any interested individual who agrees to abide by the [Nivenly Covenant](https://nivenly.org/covenant/), and is priced at $7.00 USD/per month.
 
-General Membership is $7.00 USD a month.
+###### Key Responsibilities
 
-All general members will have a vote in our general elections, while also knowing they are helping to fund our projects such as [Hachyderm Social Media](https://hachyderm.io/).
+- Governance Participation: General Members have voting rights in key decisions, including electing Board Members and approving changes to foundational documents.
+- Community Engagement: General Members participate in discussions, events, and initiatives to promote Nivenly’s mission and values.
+- Representation: Act as ambassadors of Nivenly, sharing its values and vision within their own communities.
 
-##### How do I sign up to be a member?
+###### Eligibility
 
-Individuals may sign up to be a general member on [Nivenly's Open Collective page](https://opencollective.com/nivenly-foundation).
-
-##### What are the requirements for general membership?
-
-General membership does not require anything more than enthusiasm for our cause, and access to a computer with internet access.
-No coding or other project contributions are required for general membership.
-
-##### Do I have to be a general member to participate?
-
-Yes, you do need to be a member to participate in elections and governance.
+- Open to individuals who align with The Nivenly Foundation’s values of autonomy, project control, and sustainability, and agree to abide by the Nivenly Covenant.
+- Membership is accessible through an [application process](https://opencollective.com/nivenly-foundation).
 
 ##### Do I need to be a general member to use Nivenly's software and services?
 
@@ -81,6 +67,23 @@ We hope to bring balance and reason to "The Mob of Angry Townsfolk" mentality, b
 
 A trade membership is a more expensive sponsorship class reserved for entities such as corporations.
 We base the price of membership off the size of the entity which we believe will help us offset the impact.
+
+### Who is a Trade Member?
+
+#### Definition
+
+Trade Members are organizations, businesses, or entities that partner with The Nivenly Foundation to support its initiatives. They provide financial, technical, or operational resources to advance the foundation’s goals while benefiting from collaboration and shared innovation.
+
+###### Key Responsibilities
+
+- Resource Support: Provide funding, tools, or other resources to support Nivenly projects and initiatives.
+- Strategic Collaboration: Partner with The Nivenly Foundation to align organizational goals with the foundation’s mission.
+- Engagement in Governance: Participate in governance processes to represent their organization’s perspective and help shape the foundation’s strategies.
+
+###### Eligibility
+- Open to organizations committed to supporting open collaboration and sustainability.
+- Membership is formalized through agreements outlining the partnership’s scope and contributions.
+
 
 <table>
     <thead>
@@ -122,8 +125,24 @@ The trade membership committee is tasked with organizational steering while also
 
 We find the best trade members are members who have a vested interest in the success of key Nivenly projects, services, or communities.
 
-
 ## Project Membership
+
+### Who is a Project Member?
+
+#### Definition 
+
+Project Members are contributors actively involved in one or more of The Nivenly Foundation’s open-source projects or initiatives. They play a hands-on role in driving the success of specific projects through their expertise and contributions.
+
+###### Key Responsibilities
+
+- Active Contribution: Collaborate on tasks such as development, design, documentation, or community management for Nivenly projects.
+- Decision-Making: Participate in project-level governance, including technical decisions and roadmap planning.
+- Knowledge Sharing: Share expertise and mentor new contributors within their projects.
+
+###### Eligibility
+
+- Open to individuals with relevant skills or expertise who wish to contribute to specific projects.
+- Membership is typically established through ongoing contributions or by joining project teams via established pathways.
 
 The Nivenly foundation exists to support open source projects.
 
@@ -141,5 +160,58 @@ If you are interested in discussing a potential future project please email [inf
 
 {{% /blocks/section  %}}
 
+## Governance at The Nivenly Foundation
+
+### Why Governance is Set Up this Way
+
+The Nivenly Foundation’s governance structure ensures that all members—individuals and organizations—have a voice in the foundation’s direction. This participatory approach reflects our values of transparency and inclusivity while providing a framework for accountability. Governance is designed to grow and adapt as The Nivenly Foundation evolves, ensuring that it remains flexible and effective.
+
+### How Governance Works While We’re Growing
+
+As Nivenly is still building out its governance chambers, processes are iterative and involve:
+
+- Interim Committees: Temporary groups making operational decisions while permanent governance bodies are established.
+- Community Input: Open forums and discussions where members can voice ideas and concerns.
+- Gradual Implementation: Rolling out governance mechanisms incrementally to ensure sustainability and inclusivity.
+
+### How and When to Participate in Governance
+
+- Regular Meetings: Attend quarterly governance meetings to stay informed and contribute to decision-making.
+- Project Governance: Participate in decisions specific to projects you’re involved in.
+- Elections and Voting: Take part in scheduled elections to select board members or approve key proposals.
+- Discussion Channels: Join The Nivenly Foundation’s Discord channels dedicated to governance topics.
+
+### Voting for a Project to Join the Foundation
+
+When members vote on whether a project should become part of The Nivenly Foundation, they consider:
+
+- Alignment with Mission: Does the project align with The Nivenly Foundation’s values and goals?
+- Community Support: Is there sufficient interest and support from members?
+- Sustainability: Does the project have the potential for long-term impact and viability?
+- A “yes” vote implies that members see the project as a meaningful addition to the foundation’s portfolio, while a “no” vote suggests further discussion or adjustments may be needed.
+
+### Other Governance Decisions and Voting
+
+Members may also vote on:
+
+- Policy Changes: Updates to bylaws, membership rules, or foundational documents.
+- Budget Approvals: Allocation of resources to projects or initiatives.
+- Elections: Selection of board members or other leadership roles.
+
+Discussions are preferred for:
+
+- Brainstorming new initiatives or policies.
+- Resolving disputes or addressing concerns informally.
+- Elections and formal votes are held when decisions require clear consensus or binding resolutions.
+
+### Summary of Membership Types and Governance
+
+| Membership Type   | Who They Are                                | Key Responsibilities                          | Eligibility                                             |
+|-------------------|---------------------------------------------|-----------------------------------------------|---------------------------------------------------------|
+| General Member    | Individuals supporting The Nivenly Foundation’s mission | Participate in governance and community engagement | Open to individuals aligned with Nivenly Foundation values |
+| Project Member    | Contributors to Nivenly Foundation projects | Actively contribute to and make decisions on projects | Open to skilled individuals actively contributing        |
+| Trade Member      | Organizations partnering with Nivenly Foundation | Provide resources and collaborate strategically | Open to aligned organizations                            |
+
+Governance ensures every member has a voice and that The Nivenly Foundation’s mission is achieved collaboratively. We encourage all members to actively participate and help shape the foundation’s future.
 
 
