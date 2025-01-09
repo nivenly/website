@@ -59,7 +59,7 @@ Sign Contributor Agreements: As mentioned above, you will need to sign a Contrib
 - Submit Updates: Write clear, concise documentation and submit your changes as a PR.
 - Focus Areas: Tutorials, API references, or onboarding guides are great places to start.
 
-#### Non-Technical Contributions
+#### Community Contributions
 
 - Community Engagement: Moderate forums, host events, or answer questions from new contributors.
 - Testing and QA: Help identify bugs by testing new releases and submitting detailed feedback.
