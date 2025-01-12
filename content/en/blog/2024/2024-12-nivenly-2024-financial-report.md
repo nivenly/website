@@ -4,7 +4,7 @@ linkTitle: "2024 Financial Report"
 date: 2024-12-31
 author: Preson Doster ([@esk](https://hachyderm.io/@esk))
 description: |
-  Nivenly's 2024 Financial Report
+  Nivenly's 2024 Financial Report and analysis
 ---
 
 Howdy, folks - I apologize for posting this a bit late, but we recently reviewed Nivenly's 2024 Financial Report. Our intent is for this to become a much more frequent exercise, likely quarterly, for us to increase the transparency in our financial process and results.
