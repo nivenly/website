@@ -2,7 +2,7 @@
 title: "Nivenly's 2024 Financial Report"
 linkTitle: "2024 Financial Report"
 date: 2024-12-31
-author: Preson Doster ([@esk](https://hachyderm.io/@esk))
+author: Preston Doster ([@esk](https://hachyderm.io/@esk))
 description: |
   Nivenly's 2024 Financial Report and analysis
 ---
