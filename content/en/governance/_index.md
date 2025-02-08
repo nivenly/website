@@ -84,7 +84,6 @@ Trade Members are organizations, businesses, or entities that partner with The N
 - Open to organizations committed to supporting open collaboration and sustainability.
 - Membership is formalized through agreements outlining the partnership’s scope and contributions.
 
-
 <table>
     <thead>
     <tr>
@@ -158,8 +157,6 @@ The Nivenly trade committee and project steering groups are tasked with acceptin
 
 If you are interested in discussing a potential future project please email [info@nivenly.org](mailto:info@nivenly.org)
 
-{{% /blocks/section  %}}
-
 ## Governance at The Nivenly Foundation
 
 ### Why Governance is Set Up this Way
@@ -206,12 +203,37 @@ Discussions are preferred for:
 
 ### Summary of Membership Types and Governance
 
-| Membership Type   | Who They Are                                | Key Responsibilities                          | Eligibility                                             |
-|-------------------|---------------------------------------------|-----------------------------------------------|---------------------------------------------------------|
-| General Member    | Individuals supporting The Nivenly Foundation’s mission | Participate in governance and community engagement | Open to individuals aligned with Nivenly Foundation values |
-| Project Member    | Contributors to Nivenly Foundation projects | Actively contribute to and make decisions on projects | Open to skilled individuals actively contributing        |
-| Trade Member      | Organizations partnering with Nivenly Foundation | Provide resources and collaborate strategically | Open to aligned organizations                            |
+<table>
+    <thead>
+    <tr>
+        <th class="tg-0lax">Membership Type</th>
+        <th class="tg-0lax">Who They Are</th>
+        <th class="tg-0lax">Key Responsibilities</th>
+        <th class="tg-01ax">Eligibility</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td class="tg-0lax">General Member</td>
+        <td class="tg-0lax">Individuals supporting The Nivenly Foundation’s mission</td>
+        <td class="tg-0lax">Participate in governance and community engagement</td>
+        <td class="tg-0lax">Open to individuals aligned with Nivenly Foundation values</td>
+    </tr>
+        <tr>
+        <td class="tg-0lax">Project Member</td>
+        <td class="tg-0lax">Contributors to Nivenly Foundation projects</td>
+        <td class="tg-0lax">Actively contribute to and make decisions on projects</td>
+        <td class="tg-0lax">Open to skilled individuals actively contributing</td>
+    </tr>
+    <tr>
+        <td class="tg-0lax">Trade Member</td>
+        <td class="tg-0lax">Organizations partnering with Nivenly Foundation</td>
+        <td class="tg-0lax">Provide resources and collaborate strategically</td>
+        <td class="tg-0lax">Open to aligned organizations</td>
+    </tr>
+    </tbody>
+</table>
 
 Governance ensures every member has a voice and that The Nivenly Foundation’s mission is achieved collaboratively. We encourage all members to actively participate and help shape the foundation’s future.
 
-
+{{% /blocks/section  %}}

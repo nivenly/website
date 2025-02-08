@@ -6,6 +6,10 @@ weight = 20
 pre = "<i class='fas fa-gavel pr-2'></i>"
 +++
 
+{{% blocks/cover title="Nivenly Foundation Projects" image_anchor="bottom" height="min" color="primary"%}}
+{{% blocks/link-down color="info" id="pageContent"%}}
+{{% /blocks/cover %}}
+
 # What is a Nivenly Foundation Project?  
 
 Nivenly Foundation Projects are open-source initiatives aligned with the mission and principles of the [Nivenly Foundation](https://nivenly.org/). They aim to solve complex challenges, foster innovation, and promote collaboration within their respective domains. By being a part of the Nivenly ecosystem, these projects gain access to resources, expertise, and a supportive community.  

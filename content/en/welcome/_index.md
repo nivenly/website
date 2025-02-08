@@ -6,6 +6,10 @@ weight = 20
 pre = "<i class='fas fa-gavel pr-2'></i>"
 +++
 
+{{% blocks/cover title="Welcome to the Nivenly Foundation" image_anchor="bottom" height="min" color="primary"%}}
+{{% blocks/link-down color="info" id="pageContent"%}}
+{{% /blocks/cover %}}
+
 # Welcome to the Nivenly Foundation
 
 Thank you for your interest in the Nivenly Foundation! Whether you’re already a member or exploring the possibility of joining us, we’re excited to share our vision of creating a better, more connected world through open collaboration and shared purpose. This document serves as a guide to help you understand what it means to be a part of Nivenly and how you can contribute to our growing community.
