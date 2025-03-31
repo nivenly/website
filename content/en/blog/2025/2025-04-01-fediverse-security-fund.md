@@ -56,19 +56,20 @@ Projects should have either:
 
 The following projects are currently included and meet the above minimum requirements for vulnerability disclosure:
 
-* [Mastodon](https://github.com/mastodon/mastodon)
-* [NodeBB](https://nodebb.org/)
-* [Pleroma](https://git.pleroma.social/pleroma/pleroma)
-* [Pixelfed](https://github.com/pixelfed/pixelfed)
-* [Forgejo](https://forgejo.org/)
-* [PeerTube](https://github.com/Chocobozzz/PeerTube)
-* [Hollo](https://docs.hollo.social/)
-* [Funkwhale](https://dev.funkwhale.audio/funkwhale/funkwhale)
-* [Diaspora](https://github.com/diaspora/diaspora)
-* [Lemmy](https://github.com/LemmyNet/lemmy)
-* [Misskey](https://github.com/misskey-dev/misskey)
+* [Diaspora Federation](https://github.com/diaspora/diaspora_federation)
 * [Fedify](https://fedify.dev/)
+* [Forgejo](https://forgejo.org/)
+* [Funkwhale](https://dev.funkwhale.audio/funkwhale/funkwhale)
+* [GoToSocial](https://gotosocial.org/)
+* [Hollo](https://docs.hollo.social/)
+* [Lemmy](https://github.com/LemmyNet/lemmy)
 * [Manyfold](https://github.com/manyfold3d/manyfold)
+* [Mastodon](https://github.com/mastodon/mastodon)
+* [Misskey](https://github.com/misskey-dev/misskey)
+* [NodeBB](https://nodebb.org/)
+* [PeerTube](https://github.com/Chocobozzz/PeerTube)
+* [Pixelfed](https://github.com/pixelfed/pixelfed)
+* [Pleroma](https://git.pleroma.social/pleroma/pleroma)
 
 Don’t see the project you were expecting? Raise a ticket at [nivenly/community](https://github.com/nivenly/community/issues) and let’s have a discussion about adding it – we want to include open source Fediverse projects of all sizes!
 
@@ -76,10 +77,10 @@ Don’t see the project you were expecting? Raise a ticket at [nivenly/community
 
 These projects are included within the Fund, however, their responsible security vulnerability disclosure practices need to be improved to continue to be considered eligible for the Fund beyond September 30, 2025.
 
+* [Discourse ActivityPub Plugin](https://github.com/discourse/discourse-activity-pub)
 * [Friendica](https://github.com/friendica/friendica)
 * [Hubzilla](https://framagit.org/hubzilla/core)
 * [Piefed](https://join.piefed.social/)
-* [GoToSocial](https://gotosocial.org/)
 
 Projects can let us know of changes to their security practices via a ticket at [nivenly/community](https://github.com/nivenly/community/issues).
 
