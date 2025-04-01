@@ -18,7 +18,7 @@ Individual researchers or contributors who identify or contribute a patch for a 
 * High (7.0 \- 8.9) – $250 USD
 * Critical (9.0+) – $500 USD
 
-Since this is a new program and we want to gather data about how contributors will engage with it, the Fund will allocate a maximum of **$5,000 USD** between **April 1, 2025** and the end of **September 30, 2025**. Shortly before the conclusion of the experiment, Nivenly will hold a member vote to a) determine if we want to continue the program, and b) establish a longer-term committee to steward and maintain the program.
+Since this is a new program and we want to gather data about how contributors will engage with it, the Fund will allocate a maximum of **$5,000 USD** between **April 1, 2025** and the end of **September 30, 2025**. Shortly before the conclusion of the experiment, Nivenly will hold a [member vote](/governance) to determine if we want to continue the program, and to establish a longer-term committee to steward and maintain the program.
 
 During the experiment, a single contributor is limited to a **maximum payout of $1,000 USD**. Payment processing fees do not count towards an individual’s maximum payout.
 
@@ -38,7 +38,8 @@ Since this is a time and funds limited experiment, and it’s the first time Niv
     * Demonstrate ownership of accounts in both the project’s source control system and Github (e.g. create a gist/snippet and share it with Nivenly)
 * The Fund is specifically for vulnerabilities found in Fediverse software and does not apply to live deployments of that software or misconfigurations thereof.
 * Contributors are responsible for notifying Nivenly when the fix is merged.
-* Sponsorship will be paid via a one-time Github Sponsors payment **no later than 10 business days** after the Fund has acknowledged a public, merged fix to the upstream repository. We recognize that leveraging Github Sponsors for payouts will limit who can participate. As we execute the experiment, we will explore how to adjust these terms to widen how we receive and pay out bounties.
+* Sponsorship will be paid via a one-time Github Sponsors payment **no later than 10 business days** after the Fund has acknowledged a public, merged fix to the upstream repository.
+  * We recognize that leveraging Github Sponsors for payouts will limit who can participate. As we execute the experiment, we will explore how to adjust these terms to widen how we receive and pay out bounties.
 * Nivenly will be responsible for any fees associated with the Github sponsorship payment; however, the recipient is responsible for paying any associated taxes on received income.
 * Contributors may receive sponsorships from other organizations for the same CVE, but we encourage contributors to make space for others if they have already received payment for a given vulnerability.
 * Members of the Nivenly Board of Directors, Nivenly Employees, or the Fund Program Administrators are ineligible for payouts from the Fund.
@@ -69,6 +70,7 @@ The following projects are currently included and meet the above minimum require
 * [NodeBB](https://nodebb.org/)
 * [PeerTube](https://github.com/Chocobozzz/PeerTube)
 * [Pixelfed](https://github.com/pixelfed/pixelfed)
+* [Piefed](https://join.piefed.social/)
 * [Pleroma](https://git.pleroma.social/pleroma/pleroma)
 
 Don’t see the project you were expecting? Raise a ticket at [nivenly/community](https://github.com/nivenly/community/issues) and let’s have a discussion about adding it – we want to include open source Fediverse projects of all sizes!
@@ -80,7 +82,6 @@ These projects are included within the Fund, however, their responsible security
 * [Discourse ActivityPub Plugin](https://github.com/discourse/discourse-activity-pub)
 * [Friendica](https://github.com/friendica/friendica)
 * [Hubzilla](https://framagit.org/hubzilla/core)
-* [Piefed](https://join.piefed.social/)
 
 Projects can let us know of changes to their security practices via a ticket at [nivenly/community](https://github.com/nivenly/community/issues).
 
@@ -88,6 +89,7 @@ Projects can let us know of changes to their security practices via a ticket at 
 
 - [Github on Coordinated Disclosure of Security Vulnerabilities](https://docs.github.com/en/code-security/security-advisories/guidance-on-reporting-and-writing-information-about-vulnerabilities/about-coordinated-disclosure-of-security-vulnerabilities)
 - [OWASP Vulnerability Disclosure Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Vulnerability_Disclosure_Cheat_Sheet.html#commercial-and-open-source-software)
+- [How to report a security issue in an open source project – Jacob Kaplan-Moss](https://jacobian.org/2025/mar/27/reporting-security-issues-in-oss/?utm_source=changelog-news)
 
 ## Donating to Nivenly & the Fund
 
