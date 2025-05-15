@@ -56,6 +56,7 @@ Projects should have either:
 The following projects are currently included and meet the above minimum requirements for vulnerability disclosure:
 
 * [Akkoma](https://akkoma.dev/AkkomaGang/akkoma/)
+* [Bonfire](https://github.com/bonfire-networks/bonfire-app)
 * [Bookwyrm](https://github.com/bookwyrm-social/bookwyrm/)
 * [Diaspora Federation](https://github.com/diaspora/diaspora_federation)
 * [Fedify](https://fedify.dev/)
@@ -87,7 +88,6 @@ Don’t see the project you were expecting? Raise a ticket at [nivenly/community
 
 These projects are included within the Fund, however, their responsible security vulnerability disclosure practices need to be improved to continue to be considered eligible for the Fund beyond September 30, 2025.
 
-* [Bonfire](https://github.com/bonfire-networks/bonfire-app)
 * [BotKit by Fedify](https://botkit.fedify.dev/)
 * [Bridgy Fed](https://github.com/snarfed/bridgy-fed)
 * [Castopod](https://code.castopod.org/adaures/castopod)
