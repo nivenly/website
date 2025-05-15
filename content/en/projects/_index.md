@@ -10,6 +10,9 @@ pre = "<i class='fas fa-gavel pr-2'></i>"
 {{% blocks/link-down color="info" id="pageContent"%}}
 {{% /blocks/cover %}}
 
+<section id="pageContent">
+  <div class="container">
+
 # What is a Nivenly Foundation Project?  
 
 Nivenly Foundation Projects are open-source initiatives aligned with the mission and principles of the [Nivenly Foundation](https://nivenly.org/). They aim to solve complex challenges, foster innovation, and promote collaboration within their respective domains. By being a part of the Nivenly ecosystem, these projects gain access to resources, expertise, and a supportive community.  
@@ -45,3 +48,9 @@ Being "under" Nivenly means:
 It’s important to note that you don’t need to be a Nivenly Foundation Member to contribute to its projects. Contributions are welcome from anyone, regardless of membership status, as long as they align with the project's goals and guidelines. This open approach ensures a diverse and vibrant contributor base, which is essential for innovation and growth.  
 
 Whether you're writing code, improving documentation, or helping with community management, your contributions make a meaningful impact. [Explore our projects](https://nivenly.org/projects/), find an area where you can contribute, and become part of the Nivenly Foundation’s journey today!
+
+</div>
+<div class="container pt-5">
+  {{% shared/projects %}}
+</div>
+</section>

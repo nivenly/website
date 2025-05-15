@@ -10,6 +10,9 @@ pre = "<i class='fas fa-gavel pr-2'></i>"
 {{% blocks/link-down color="info" id="pageContent"%}}
 {{% /blocks/cover %}}
 
+<section id="pageContent">
+  <div class="container">
+
 # Welcome to the Nivenly Foundation
 
 Thank you for your interest in the Nivenly Foundation! Whether you’re already a member or exploring the possibility of joining us, we’re excited to share our vision of creating a better, more connected world through open collaboration and shared purpose. This document serves as a guide to help you understand what it means to be a part of Nivenly and how you can contribute to our growing community.
@@ -87,3 +90,6 @@ At Nivenly, we are guided by the following principles:
 The possibilities are endless, and the impact we can create together is profound. Dive in, connect, and start making a difference. We’re excited to see the amazing things you’ll accomplish as a Nivenly member!  
 
 **Welcome to the Nivenly community!**
+
+</div>
+</section>
