@@ -27,6 +27,7 @@ the Nivenly Foundation and membership. We cover a lot of the below FAQs on
   - [General Members](#general-members)
   - [Project Members](#project-members)
   - [Trade Members](#trade-members)
+- [What is the Nivenly Senate?](#what-is-the-nivenly-senate)
 - [How do I submit a project to the Nivenly Foundation?](#how-do-i-submit-a-project-to-the-nivenly-foundation)
 - [Where can I buy swag?](#where-can-i-buy-swag)
   - [Where can I donate to Nivenly?](#where-can-i-donate-to-nivenly)
@@ -44,6 +45,7 @@ There are three main reasons for choosing a non-profit:
    having their dayjob.
 1. Makes it easier to partner with other entities, both for-profit and non-profit.
 1. Makes it easier to prioritize the community needs over business needs.
+1. Enables transparency of financials, which mirrors the trust model we expect from a co-op structure.
 
 #### Why is Nivenly a co-op?
 
@@ -54,7 +56,7 @@ channels of communciation and well understood, easy to use, methods to make deci
 
 #### What are the goals for the Nivenly Foundation?
 
-The initial goals of the Nivenly Foundation are to provide our open source projects and servcies assistance with:
+The initial goals of the Nivenly Foundation are to provide our open source projects and services assistance with:
 
 * Managing funding
 * Community management
@@ -79,14 +81,14 @@ Note that for general membership:
 
 Project membership is only open to maintainers of current Nivenly projects. Each project manages their
 own maintainer onboarding and offboarding. In order to be a maintainer for a specific project, you must
-reach out to that project.
+reach out to that project's leads or existing maintainers.
 
 Note that for project membership:
 
 * There is no cost associated with project membership.
   * Individuals _can_ have a general membership and be a project maintainer at the same time. This will not
     duplicate their vote.
-* Projects delegate a maintainer to sit in the Nivenly Senate and represent their project.
+* Projects delegate a maintainer to sit in the [Nivenly Senate](#what-is-the-nivenly-senate) and represent their project.
 * All members must abide by the [Nivenly Covenant](/covenant).
 
 ##### Trade Members
@@ -99,8 +101,15 @@ Note that for trade membership:
 * Cost of membership depends on organization size. For more information please see [our Governance page](/governance/).
   * Individuals _can_ have a general membership and be a member of / employed by a trade member organization. This will
     note duplicate their vote.
-* Trade member organizations delegate a representative to sit in the Nivenly Senate and represent their organization.
+* Trade member organizations delegate a representative to sit in the [Nivenly Senate](#what-is-the-nivenly-senate) and
+  represent their organization.
 * All members must abide by the [Nivenly Covenant](/covenant).
+
+#### What is the Nivenly Senate?
+
+Project and Trade members delegate a representative to join the board members in informing the governance of the
+Foundation.  Project and Trade membership numbers are limited and balanced so no one group can control the Foundation,
+but all voices are present.
 
 #### How do I submit a project to the Nivenly Foundation?
 
