@@ -1,6 +1,6 @@
 ---
 title: "Project Applications"
-weight: 40
+weight: 50
 type: docs
 linkTitle: "Project Applications"
 description: >

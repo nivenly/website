@@ -17,7 +17,8 @@ The Nivenly Foundation’s membership is structured to empower individuals and o
 {{% blocks/link-down color="info" %}}
 {{< /blocks/cover >}}
 
-{{% blocks/section type="section" color="white" %}}
+<section id="pageContent">
+  <div class="container">
 
 ## The Board of Directors
 
@@ -236,4 +237,5 @@ Discussions are preferred for:
 
 Governance ensures every member has a voice and that The Nivenly Foundation’s mission is achieved collaboratively. We encourage all members to actively participate and help shape the foundation’s future.
 
-{{% /blocks/section  %}}
+  </div>
+</section>

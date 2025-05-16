@@ -40,27 +40,46 @@ footer {
   // --------------------------------------------------
   // custom navbar with larger logo, dropdown on mobile
   // --------------------------------------------------
-  .td-navbar {
-    min-height: auto;
   
+  @supports (position: sticky) {
+    body > header {
+      position: sticky;
+      top: 0px;
+      padding-top: 12px;
+      z-index: 33;
+      background: $primary;
+    }
+
+    .td-sidebar-toc, .td-section-nav {
+      top: 7rem!important;
+    }
+  }
+
+  @include media-breakpoint-down(lg) {
+    .td-sidebar {
+      padding-top: 0!important;      
+    }
+  }
+
+  .navbar {
+    background: $primary;
+    color: white;
+    
     .navbar-brand {
-      margin: 0;
-      padding: 0;
-  
-      .text-uppercase {
-        display: none;
+      @include media-breakpoint-down(sm) {
+        .text-uppercase {
+          display: none;
+        }
       }
-  
+
       .navbar-logo {
+        margin: 10px;
+
         svg {
           display: inline-block;
-          position: absolute;
-          top: 0;
-          z-index: 33;
-          padding: 10px;
           border-top: none;
-          width: 70px;
-          height: 70px;
+          width: 60px;
+          height: 60px;
   
           @include media-breakpoint-down(lg) {
             max-width: 55px;
@@ -72,26 +91,35 @@ footer {
         }
       }
     }
-  
-    .navbar-nav {
-      @include media-breakpoint-down(lg) {
-        font-size: .875rem;
-        .dropdown {
-          min-width: inherit;
-        }
-      }
+
+    .navbar-toggler:focus {
+      box-shadow: 0 0 0 2px;
     }
+
+    .navbar-collapse.show,
+    .navbar-collapse.collapsing {
+      padding-top: 1rem;
+      padding-bottom: 1rem;
+    }
+  }
+
+  // Fixes the issue with the headers not being full width:
+  .container-fluid.td-default.td-outer {
+    padding-left: 0;
+    padding-right: 0;
   }
   
   .td-sidebar {
+    padding-top: 10px;
     padding-bottom: 0.5rem;
   
+    .td-sidebar__search {
+        display: none!important;
+      }
+
     .td-sidebar__inner {
       padding-top: 30px;
-  
-      @include media-breakpoint-down(lg) {
-        padding-top: 10px;
-      }
+      top: 6rem;
     }
   }
   
