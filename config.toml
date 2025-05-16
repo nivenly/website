@@ -157,41 +157,47 @@ enable = false
 # End user relevant links. These will show up on left side of footer and in the community page if you have one.
 # [[params.links.user]]
 [[params.links.user]]
-  name = "Nivenly Foundation"
-  url = "https://nivenly.org/"
-  icon = "fa fa-home"
-  desc = "Nivenly Foundation"
+name = "Nivenly Foundation"
+url = "https://nivenly.org/"
+icon = "fa fa-home"
+desc = "Nivenly Foundation"
+
 # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
 [[params.links.developer]]
-  name = "Nivenly Foundation on Hachyderm"
-  url = "https://hachyderm.io/@nivenly"
-  icon = "fa-brands fa-mastodon"
-  desc = "Nivenly Foundation"
+name = "Nivenly Foundation on Hachyderm"
+url = "https://hachyderm.io/@nivenly"
+icon = "fa-brands fa-mastodon"
+desc = "Nivenly Foundation"
+
 [[params.links.developer]]
-  name = "Nivenly Foundation on GitHub"
-  url = "https://github.com/nivenly"
-  icon = "fa-brands fa-github"
-  desc = "Nivenly Foundation on GitHub"
+name = "Nivenly Foundation on GitHub"
+url = "https://github.com/nivenly"
+icon = "fa-brands fa-github"
+desc = "Nivenly Foundation on GitHub"
+
 [[params.links.developer]]
-  name = "Nivenly Foundation on BlueSky"
-  url = "https://bsky.app/profile/nivenly.bsky.social"
-  icon = "fa-brands fa-bluesky"
-  desc = "Nivenly Foundation on BlueSky"
+name = "Nivenly Foundation on BlueSky"
+url = "https://bsky.app/profile/nivenly.bsky.social"
+icon = "fa-brands fa-bluesky"
+desc = "Nivenly Foundation on BlueSky"
+
 [[params.links.developer]]
-  name = "Nivenly Foundation on LinkedIn"
-  url = "https://www.linkedin.com/company/nivenly-foundation/"
-  icon = "fa-brands fa-linkedin"
-  desc = "Nivenly Foundation on GitHub"
+name = "Nivenly Foundation on LinkedIn"
+url = "https://www.linkedin.com/company/nivenly-foundation/"
+icon = "fa-brands fa-linkedin"
+desc = "Nivenly Foundation on GitHub"
+
 [[params.links.developer]]
-  name = "Join our public Community Discord"
-  url = "https://discord.gg/rUQH4PAmY9"
-  icon = "fa-brands fa-discord"
-  desc = "Nivenly Foundation Community Discord"
+name = "Join our public Community Discord"
+url = "https://discord.gg/rUQH4PAmY9"
+icon = "fa-brands fa-discord"
+desc = "Nivenly Foundation Community Discord"
+
 [[params.links.developer]]
-  name = "Email the Nivenly Foundation"
-  url = "mailto:info@nivenly.org"
-  icon = "fa fa-envelope"
-  desc = "Email the Nivenly Foundation"
+name = "Email the Nivenly Foundation"
+url = "mailto:info@nivenly.org"
+icon = "fa fa-envelope"
+desc = "Email the Nivenly Foundation"
 
 # hugo module configuration
 
@@ -200,10 +206,8 @@ enable = false
 # replacements = "github.com/google/docsy -> ../../docsy"
 [module.hugoVersion]
 extended = true
-min = "0.75.0"
+min = "0.110.0"
+
 [[module.imports]]
 path = "github.com/google/docsy"
-disable = false
-[[module.imports]]
-path = "github.com/google/docsy/dependencies"
 disable = false

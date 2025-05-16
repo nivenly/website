@@ -1,7 +1,10 @@
 default: help
 
 .PHONY: all
-all: submodule hugo dev
+all: submodule hugo dev clean
+
+clean:
+	rm -rf public node_modules .hugo-build.lock
 
 issues: ## Find all the FIXMEs
 	grep -ri "FIXME" content/en/
