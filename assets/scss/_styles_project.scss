@@ -23,6 +23,152 @@ p,ul,ol {
   font-family: "Montserrat", "Verdana", "sans-serif" !important;
 }
 
+
+// Front page styling
+.card-img-top {
+  object-fit: scale-down;
+}
+
+.text-white {
+  font-weight: 400;
+}
+
+.bg-primary-dark {
+  background-color: $dark;
+
+  a {
+    border-bottom: 1px dotted paleturquoise;
+
+    color: paleturquoise !important;
+    font-weight: 600;
+    padding: 0 2px 1px 2px;
+    text-decoration: none;
+
+    &:hover {
+      border-bottom: 1px dotted #fff;
+
+      color: #fff !important;
+    }
+  }
+}
+
+.border-primary-dark {
+  border-color: $info !important;
+}
+
+.section-head {
+  font-size: 1.25em;
+  color: $primary;
+  font-weight: bold;
+  padding: 0 0 1em 0;
+}
+
+.contain {
+  margin: 0 auto;
+  max-width: 1200px; }
+
+.image {
+  display: block; }
+  .image img {
+    display: block;
+    width: 100%;
+    height: auto; }
+  .image.left, .image.right {
+    max-width: 45%; }
+    .image.left::after, .image.right::after {
+      clear: both;
+      content: "";
+      display: block; }
+  .image.left {
+    float: left;
+    margin: 0 1.5em 1.5em 0; }
+  .image.right {
+    float: right;
+    margin: 0 0 1.5em 1.5em; }
+
+#overview, #community {
+  padding: 6em 1.5em 3em 1.5em;
+  text-align: center;
+  margin: 0;
+
+  p {
+    font-size: 1.125em;
+  }
+}
+
+#overview + #pageContent {
+  padding-top: 0;
+}
+
+#community {
+  border-top: 2px solid $light-blue;
+}
+
+#pageContent .lead {
+  margin: 0 1.5em 3em 1.5em;}
+  #pageContent .lead > .image {
+    padding: 0 1.5em;
+    max-width: 60%;
+    margin-bottom: 1.5em; }
+  #pageContent .lead > .text p {
+    font-size: 1em; }
+
+@include media-breakpoint-down(sm) {
+  #overview, #community {
+    font-size: 1.125em; }
+  #pageContent .lead > .image {
+    max-width: 35%;
+    margin-bottom: 3em; }
+  #pageContent .lead > .text p {
+    font-size: 1em; }
+}
+
+@include media-breakpoint-down(lg) {
+  #pageContent .lead {
+    margin-top: 1em;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -ms-flex-wrap: nowrap;
+    flex-wrap: nowrap;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    -ms-flex-align: stretch;
+    align-items: stretch;
+
+    & > * {
+      -ms-flex: 0 1 auto;
+          flex: 0 1 auto;
+    }
+
+    .image {
+      display: block;
+      margin: 0 auto;
+      max-width: 100%;
+
+      & > img {
+        max-width: 80%;
+        margin: 0 auto;
+      }
+    }
+
+    .text {
+      -ms-flex-preferred-size: 70%;
+      flex-basis: 70%;
+    }
+
+    &:nth-child(2n+0) > .image {
+      -ms-flex-order: 2;
+      order: 2;
+    }
+    &:nth-child(2n+0) > .text {
+      -ms-flex-order: 1;
+          order: 1;
+    }
+  }
+}
+
 // --------------------------------------------------
 // remove whitespace after footer
 // --------------------------------------------------
@@ -199,3 +345,90 @@ footer {
   {
     display: none;
   }
+
+.card-deck {
+  --gap: var(--bs-gutter-x);
+  --line-offset: calc(var(--gap) / 2);
+  --line-thickness: 2px;
+
+  display: grid;
+  grid-template-columns: repeat(1, minmax(0, 1fr));
+  overflow: hidden;
+  gap: var(--gap);
+  margin-bottom: 2rem;
+
+  .card {
+    border: none;
+    position: relative;
+    min-height: 100vh;
+    justify-items: start;
+
+    &::before,
+    &::after {
+      content: '';
+      position: absolute;
+      background-color: $light;
+      z-index: 1;
+    }
+
+    &::after {
+      inline-size: 100vw;
+      block-size: var(--line-thickness);
+      inset-inline-start: 0;
+      inset-block-start: calc(var(--line-offset) * -1);
+    }
+
+    &::before {
+      inline-size: var(--line-thickness);
+      block-size: calc(max(120vh, 100vmax));
+      inset-block-start: -20px;
+      inset-inline-start: calc(var(--line-offset) * -1);
+    }
+
+    & > a {
+      padding: 1rem;
+    }
+
+    a > .card-img-top {
+      padding: 0;
+      margin-bottom: 1rem;
+    }
+
+    .card-img-top {
+      padding: 1rem;
+      max-height: 384px;
+      max-width: 384px;
+      object-fit: contain;
+    }
+
+    .card-footer {
+      background: none;
+      border-top: none;
+      padding-bottom: 1rem;
+    }
+  }
+
+  .card:only-child {
+    &::before, &::after {
+      display: none;
+    }
+  }
+}
+
+@include media-breakpoint-down(md) {
+  .card-deck .card-fake {
+    display: none;
+  }
+}
+
+@include media-breakpoint-up(md) {
+  .card-deck {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@include media-breakpoint-up(xl) {
+  .card-deck {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
