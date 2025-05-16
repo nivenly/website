@@ -385,6 +385,15 @@ footer {
       inset-inline-start: calc(var(--line-offset) * -1);
     }
 
+    & > a {
+      padding: 1rem;
+    }
+
+    a > .card-img-top {
+      padding: 0;
+      margin-bottom: 1rem;
+    }
+
     .card-img-top {
       padding: 1rem;
       max-height: 384px;
