@@ -415,6 +415,12 @@ footer {
   }
 }
 
+@include media-breakpoint-down(md) {
+  .card-deck .card-fake {
+    display: none;
+  }
+}
+
 @include media-breakpoint-up(md) {
   .card-deck {
     grid-template-columns: repeat(2, minmax(0, 1fr));
