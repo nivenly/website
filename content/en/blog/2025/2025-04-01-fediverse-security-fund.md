@@ -22,7 +22,7 @@ Since this is a new program and we want to gather data about how contributors wi
 
 During the experiment, a single contributor is limited to a **maximum payout of $1,000 USD**. Payment processing fees do not count towards an individual’s maximum payout.
 
-More information on the [Fediverse Security Fund](../../docs/programs/fediverse-security-fund.md) program.
+More information on the [Fediverse Security Fund](https://nivenly.org/docs/programs/fediverse-security-fund/) program.
 
 ## Questions?
 
