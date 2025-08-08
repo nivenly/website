@@ -105,6 +105,10 @@ These projects are included within the Fund, however, their responsible security
 
 Projects can let us know of changes to their security practices via a ticket at [nivenly/community](https://github.com/nivenly/community/issues).
 
+## Requests for Payment
+
+Please fill in [this form](https://docs.google.com/forms/d/e/1FAIpQLSdxWsU24HflOr2EFHeL_XMgVP1omkREHVFH7G5f0hWZd3ojEQ/viewform) make a request for payment for a vulnerability. If we need more information, we'll get in contact with you via email, which is also how we will provide updates on your request.
+
 ## Resources for Responsible Security Practices
 
 - [Github on Coordinated Disclosure of Security Vulnerabilities](https://docs.github.com/en/code-security/security-advisories/guidance-on-reporting-and-writing-information-about-vulnerabilities/about-coordinated-disclosure-of-security-vulnerabilities)
