@@ -424,6 +424,7 @@ p,ul,ol {
     display: none;
   }
 
+// Cards for the projects and who page:
 .card-deck {
   --gap: var(--bs-gutter-x);
   --line-offset: calc(var(--gap) / 2);
@@ -507,5 +508,35 @@ p,ul,ol {
 @include media-breakpoint-up(xl) {
   .card-deck {
     grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+
+// Partners page elements:
+.partner {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0;
+  
+  .partner-logo {
+    display: flex;
+    max-width: 280px;
+    
+    > img {
+      width: 100%;
+      object-fit: scale-down;
+    }
+  }
+
+  .partner-description {
+    flex-grow: 1;
+    margin: 0 2rem;
+  }
+}
+
+@include media-breakpoint-up(md) {
+  .partner {
+    flex-direction: row;
+    gap: 2rem;
   }
 }
