@@ -14,8 +14,10 @@
   font-display: fallback;
 }
 
+// Fixes overflow in the x-axis where something causes the layout to be wider
+// than the size of a screen.
 html, body {
-  overflow-x: hidden;
+  overflow-x: clip;
 }
 
 h1,h2,h3,h4,h5
