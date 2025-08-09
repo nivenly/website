@@ -14,6 +14,10 @@
   font-display: fallback;
 }
 
+html, body {
+  overflow-x: hidden;
+}
+
 h1,h2,h3,h4,h5
 {
   font-family: "Montserrat", "Verdana", "sans-serif" !important;
@@ -347,6 +351,14 @@ p,ul,ol {
     }
   }
   
+  // Page headers:
+  .td-main > .row.td-cover-block {
+    margin: 0!important;
+
+    .col-12 {
+      padding: 0;
+    }
+  }
   
   // --------------------------------------------------
   // 404 page
