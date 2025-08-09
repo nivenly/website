@@ -1,4 +1,5 @@
 # make sure to update hugo version in .github/workflows/publish.yml as well!
+# "hugo" is for asdf, "hugo-extended" is for mise:
 hugo          extended_0.147.3
 hugo-extended 0.147.3
 golang        1.24.6
