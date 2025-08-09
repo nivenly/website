@@ -172,9 +172,10 @@ p,ul,ol {
 // --------------------------------------------------
 // remove whitespace after footer
 // --------------------------------------------------
-footer {
-    min-height: auto;
-  }
+.td-footer {
+  min-height: auto!important;
+  padding: 3rem 0;
+}
   
   // --------------------------------------------------
   // prevent overflow of long names in sidebar
@@ -194,16 +195,38 @@ footer {
       padding-top: 12px;
       z-index: 33;
       background: $primary;
-    }
 
+      @include media-breakpoint-down(md) {
+        padding: 0;
+      }
+    }
+    
     .td-sidebar-toc, .td-section-nav {
-      top: 7rem!important;
+      top: 10rem!important;
     }
   }
+  
+  @include media-breakpoint-down(md) {
+    header {
+      .navbar-nav-scroll {
+        align-items: start;
+        
+        &:has([aria-expanded="true"]) {
+          align-items: start;
+          min-height: var(--bs-scroll-height, 100vh);
+          padding-bottom: 3rem;
+        }
 
-  @include media-breakpoint-down(lg) {
-    .td-sidebar {
-      padding-top: 0!important;      
+        .navbar-collapse.collapsing {
+          transition: height 0.35s ease-out;
+        }
+
+        .navbar-nav {
+          padding-top: 1rem;
+          padding-left: 24px!important;
+        }
+      }
+
     }
   }
 
@@ -226,46 +249,94 @@ footer {
           border-top: none;
           width: 60px;
           height: 60px;
+          margin-bottom: 10px;
   
           @include media-breakpoint-down(lg) {
             max-width: 55px;
             max-height: 55px;
             padding: 0px;
             margin-top: 0px;
-            margin-bottom: 10px;
+            margin-bottom: 0px;
           }
         }
       }
     }
 
-    .navbar-toggler:focus {
-      box-shadow: 0 0 0 2px;
+    .navbar-toggler {
+      margin-right: 24px;
+
+      &:focus {
+        box-shadow: 0 0 0 2px;
+      }
     }
 
     .navbar-collapse.show,
     .navbar-collapse.collapsing {
-      padding-top: 1rem;
       padding-bottom: 1rem;
     }
   }
 
   // Fixes the issue with the headers not being full width:
   .container-fluid.td-default.td-outer {
-    padding-left: 0;
-    padding-right: 0;
+    padding-left: 0!important;
+    padding-right: 0!important;
   }
   
   .td-sidebar {
-    padding-top: 10px;
-    padding-bottom: 0.5rem;
+    padding: 1rem 0 0;
   
-    .td-sidebar__search {
-        display: none!important;
+    .td-sidebar__toggle:after {
+      content: "Menu";
+      position: relative;
+      font-family: var(--bs-body-font-family);
+      font-weight: 500;
+      padding-left: 0.5rem;
+    }
+
+    @include media-breakpoint-up(md) {
+      .td-sidebar__inner {
+        padding-top: 30px;
+        top: 6rem;
       }
+    }
+  }
+
+  @include media-breakpoint-down(md) {
+    .td-blog #td-sidebar-menu {
+      display: none;
+    }
+
+    .td-sidebar__search {
+      padding: 0;
+    }
 
     .td-sidebar__inner {
-      padding-top: 30px;
-      top: 6rem;
+      padding-bottom: 1rem;
+    }
+
+    .td-sidebar-nav {
+      margin-left: -0.5rem;
+      margin-right: 0.5rem;
+    }
+
+    .td-sidebar-nav__section .ul-1 ul {
+      padding-left: 1.5rem;
+    }
+  }
+
+  .td-breadcrumbs__single {
+    display: none;
+  }
+  
+
+  @include media-breakpoint-down(md) {
+    .td-breadcrumbs {
+      border-top: 1px solid #ccc;
+      padding-top: 1rem;
+    }
+
+    .td-404 main, .td-main main {
+      padding-top: var(--bs-gutter-y);
     }
   }
   
