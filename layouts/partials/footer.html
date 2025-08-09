@@ -1,0 +1,18 @@
+<footer class="td-footer row d-print-none">
+  <div class="container-fluid">
+    <div
+      class="d-flex flex-column flex-lg-row justify-content-between align-items-center align-content-center gap-3 px-2">
+      <div class="td-footer__left">
+        {{ partial "footer/left.html"  . }}
+      </div>
+      {{- /* Trim WS */ -}}
+      <div class="td-footer__center flex-fill">
+        {{ partial "footer/center.html"  . }}
+      </div>
+      {{- /* Trim WS */ -}}
+      <div class="td-footer__right">
+        {{ partial "footer/right.html"  . }}
+      </div>
+    </div>
+  </div>
+</footer>

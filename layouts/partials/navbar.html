@@ -1,5 +1,5 @@
 {{ $cover := and (.HasShortcode "blocks/cover") (not .Site.Params.ui.navbar_translucent_over_cover_disable) }}
-<nav class="navbar navbar-expand-xxl navbar-dark">
+<nav class="navbar navbar-expand-xxl navbar-dark navbar-nav-scroll">
 	<div class="container-fluid">
 		<a class="navbar-brand" href="{{ .Site.Home.RelPermalink }}">
 			<span
@@ -11,7 +11,7 @@
 			<span class="navbar-toggler-icon"></span>
 		</button>
 		<div class="collapse navbar-collapse" id="navbar">
-			<ul class="navbar-nav ms-xl-auto mb-2 mb-xxl-0 ms-lg-2 navbar-nav-scroll">
+			<ul class="navbar-nav ms-xl-auto mb-2 mb-xxl-0 ms-lg-2">
 				{{ $p := . }}
 				{{ range .Site.Menus.main }}
 				<li class="nav-item py-sm-1">
