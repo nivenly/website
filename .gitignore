@@ -6,3 +6,4 @@ resources/_gen*
 .smbdelete*
 .hugo_build.lock
 .vscode*
+mise.local.toml
