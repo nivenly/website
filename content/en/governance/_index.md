@@ -8,13 +8,13 @@ pre = "<i class='fas fa-gavel pr-2'></i>"
 
 {{< blocks/cover title="Nivenly Governance" image_anchor="top" height="min" color="primary" >}}
 
-<img style="float:right;" src="governance.png" width="480"/>
+<div class="w-md-full mx-auto" id="governance-diagram">
+  <img src="governance.png"/>
+</div>
 
-<p>
+<p class="px-2">
 The Nivenly Foundation’s membership is structured to empower individuals and organizations to actively participate in our mission to foster open source software community and maintainer autonomy, project control, and long-term sustainability. This guide outlines the roles and responsibilities of the three key membership types: General Members, Project Members, and Trade Members, and provides an overview of how governance works within the foundation.
 </p>
-
-{{% blocks/link-down color="info" %}}
 {{< /blocks/cover >}}
 
 <section id="pageContent">

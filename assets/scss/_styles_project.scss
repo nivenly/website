@@ -554,3 +554,22 @@ p,ul,ol {
     gap: 2rem;
   }
 }
+
+// Governance page:
+#governance-diagram {
+  max-width: 480px;
+  margin-bottom: 1rem;
+  
+  img {
+    width: 100%;
+    object-fit: scale-down;
+  }
+
+  @include media-breakpoint-up(lg) {
+    float: right;
+
+    + p {
+      padding-top: 2rem;
+    }
+  }
+}
