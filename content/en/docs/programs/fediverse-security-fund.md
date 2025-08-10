@@ -115,9 +115,9 @@ Please fill in [this form](https://docs.google.com/forms/d/e/1FAIpQLSdxWsU24HflO
 - [OWASP Vulnerability Disclosure Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Vulnerability_Disclosure_Cheat_Sheet.html#commercial-and-open-source-software)
 - [How to report a security issue in an open source project – Jacob Kaplan-Moss](https://jacobian.org/2025/mar/27/reporting-security-issues-in-oss/?utm_source=changelog-news)
 
-## Donating to Nivenly & the Fund
+## Financially supporting Nivenly & the Fund
 
-Want to help support Nivenly projects and the Fediverse Security Fund? You can learn more about donating on the [Nivenly Open Collective](https://opencollective.com/nivenly-foundation).
+See [Financial Support](/donate) for more information about financial support for the Nivenly Foundation and projects like the Fediverse Security Fund.
 
 ## Fund Program Administrators
 

@@ -100,7 +100,7 @@ Note that for trade membership:
 
 * Cost of membership depends on organization size. For more information please see [our Governance page](/governance/).
   * Individuals _can_ have a general membership and be a member of / employed by a trade member organization. This will
-    note duplicate their vote.
+    not duplicate their vote.
 * Trade member organizations delegate a representative to sit in the [Nivenly Senate](#what-is-the-nivenly-senate) and
   represent their organization.
 * All members must abide by the [Nivenly Covenant](/covenant).
@@ -140,14 +140,9 @@ Project requirements:
 [The Nivenly Foundation Swag Store](https://nivenly.myspreadshop.com/)! Currently hosting swag for Nivenly itself as well as
 its projects Hachyderm and Aurae. Note that the product search bar is for the Nivenly store only, not sitewide for SpreadShop.
 
-##### Where can I donate to Nivenly?
+##### How can I financially support the Nivenly Foundation?
 
-If you would like to donate to the Nivenly Foundation without becoming a member, we recommend using
-[Nivenly's GitHub Sponsors page](https://github.com/sponsors/nivenly/).
-
-:warning: **<u>Donations are _not_ the same as memberships</u>**. The above path is for supporting the Nivenly Foundation
-_without_ partaking in the governance structure. If you would like to be a member, please use one of the paths
-to membership outlined above.
+See the [Financial Support](/donate) page.
 
 #### How can I help the Nivenly Foundation?
 
