@@ -1,7 +1,7 @@
 default: help
 
 .PHONY: all
-all: submodule hugo dev clean
+all: hugo dev clean
 
 clean:
 	rm -rf public node_modules .hugo-build.lock
@@ -9,17 +9,12 @@ clean:
 issues: ## Find all the FIXMEs
 	grep -ri "FIXME" content/en/
 
-submodule: ## Initialize the submodule(s)
-	git submodule update --init --recursive
-
 hugo: ## Build the hugo site for CI
 	npm ci
 	hugo --minify
 
 dev: ## Run the local server
 	hugo serve .
-
-new: submodule dev ## Updates and init's the submodule(s) before running hugo server
 
 .PHONY: help
 help:  ## 🤔 Show help messages for make targets
