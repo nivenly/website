@@ -195,6 +195,12 @@ p,ul,ol {
   // --------------------------------------------------
   
   @supports (position: sticky) {
+    // Ensures content isn't obscured by the header when linked with an anchor.
+    // Height is just what feels right, approximately half the height of the header:
+    [id] {
+      scroll-margin-top: 60px;
+    }
+
     body > header {
       position: sticky;
       top: 0px;
