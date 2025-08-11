@@ -1,0 +1,16 @@
+<div class="card-deck">
+
+    {{ range $.Site.Data.projects }}
+    {{ partial "project-card.html" . }}
+    {{ end }}
+
+    {{ partial "project-card.html" (dict
+        "name" "Your project"
+        "logoUrl" "/project-logos/coming-soon.png"
+        "description" "Projects can apply to join Nivenly, you can read about this process over at the <a href=\"/projects\">Projects</a> section"
+    ) }}
+
+    <div class="card card-fake">
+        <span>&nbsp;</span>
+    </div>
+</div>
