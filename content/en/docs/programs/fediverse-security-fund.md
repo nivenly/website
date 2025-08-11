@@ -60,6 +60,7 @@ The following projects are currently included and meet the above minimum require
 * [BotKit by Fedify](https://botkit.fedify.dev/)
 * [Bookwyrm](https://github.com/bookwyrm-social/bookwyrm/)
 * [Bridgy Fed](https://github.com/snarfed/bridgy-fed)
+* [Castopod](https://code.castopod.org/adaures/castopod)
 * [Diaspora Federation](https://github.com/diaspora/diaspora_federation)
 * [Fedify](https://fedify.dev/)
 * [Forgejo](https://forgejo.org/)
@@ -75,7 +76,6 @@ The following projects are currently included and meet the above minimum require
 * [NeoDB](https://github.com/neodb-social/neodb/)
 * [NodeBB](https://nodebb.org/)
 * [PeerTube](https://github.com/Chocobozzz/PeerTube)
-* [Pixelfed](https://github.com/pixelfed/pixelfed)
 * [Piefed](https://join.piefed.social/)
 * [Pleroma](https://git.pleroma.social/pleroma/pleroma)
 * [Owncast](https://github.com/owncast/owncast/)
@@ -90,7 +90,6 @@ Don’t see the project you were expecting? Raise a ticket at [nivenly/community
 
 These projects are included within the Fund, however, their responsible security vulnerability disclosure practices need to be improved to continue to be considered eligible for the Fund beyond September 30, 2025.
 
-* [Castopod](https://code.castopod.org/adaures/castopod)
 * [Discourse ActivityPub Plugin](https://github.com/discourse/discourse-activity-pub)
 * [Emissary](https://github.com/EmissarySocial/emissary)
 * [Flohmarkt](https://codeberg.org/flohmarkt/flohmarkt)
