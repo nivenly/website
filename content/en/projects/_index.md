@@ -51,6 +51,6 @@ Whether you're writing code, improving documentation, or helping with community 
 
 </div>
 <div class="container pt-5">
-{{% shared/projects %}}
+{{< shared/projects-card-deck >}}
 </div>
 </section>

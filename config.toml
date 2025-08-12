@@ -14,6 +14,10 @@ enableRobotsTXT = true
 enableGitInfo = true
 enableEmoji = true
 
+ignoreFiles = [
+    "data/projects/README.md",
+]
+
 # Comment out to enable taxonomies in Docsy
 # disableKinds = ["taxonomy", "taxonomyTerm"]
 

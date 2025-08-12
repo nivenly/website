@@ -1,0 +1,6 @@
+name = "Aurae"
+projectUrl = "https://aurae.io/"
+logoUrl = "/project-logos/aurae.png"
+description = """Aurae is a free and open source Rust project providing a memory-safe runtime daemon, process manager, and PID-1 initialization system to remotely schedule processes, containers, and virtual machines.
+
+It also provides official clients in Rust and Go, but exposes everything through a gRPC API allowing a breadth of possible integrations."""

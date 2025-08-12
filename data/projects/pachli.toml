@@ -1,0 +1,4 @@
+name = "Pachli"
+projectUrl = "https://pachli.app/"
+logoUrl = "/project-logos/pachli.png"
+description = """Pachli is a best-in-class Android client for Mastodon and Mastodon-like servers. """
