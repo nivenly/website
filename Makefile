@@ -14,7 +14,7 @@ hugo: ## Build the hugo site for CI
 	hugo --minify
 
 dev: ## Run the local server
-	hugo serve .
+	hugo --buildFuture serve .
 
 .PHONY: help
 help:  ## 🤔 Show help messages for make targets
