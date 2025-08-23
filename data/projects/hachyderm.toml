@@ -1,0 +1,7 @@
+name = "Hachyderm"
+projectUrl = "https://hachyderm.io/"
+logoUrl = "/project-logos/hachyderm.png"
+description = """Hachyderm is a social media site built on Mastodon. Here we are building a curated network of respectful professionals in the tech industry around the globe. Welcome to anyone who follows the rules and needs a safe home or fresh start.
+
+We are hackers, professionals, enthusiasts, and are passionate about life, respect, and digital freedom. We believe in peace and balance and providing safe spaces."""
+callToAction = "Join Hachyderm"
