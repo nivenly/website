@@ -5,7 +5,7 @@
 
 set -e
 
-for schemaFile in */*.schema.json; do
-  dataDir=$(dirname "$schemaFile")
-  pajv validate -s "$schemaFile" -d "$dataDir/*.toml"
+for schemaFile in *.schema.json; do
+  dataDir=$(basename "$schemaFile" ".schema.json")
+  npx pajv validate -s "$schemaFile" -d "$dataDir/*.toml"
 done
