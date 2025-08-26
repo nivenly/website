@@ -12,7 +12,7 @@ validate:
 issues: ## Find all the FIXMEs
 	grep -ri "FIXME" content/en/
 
-hugo: validate
+hugo:
 	npm ci
 	hugo --minify
 
