@@ -1,0 +1,7 @@
+name = "Fediverse Security Fund"
+projectUrl = "/docs/programs/fediverse-security-fund/"
+logoUrl = "/project-logos/fediverse-security-fund.png"
+description = """Security bounty fund to sponsor contributors who responsibly disclose security vulnerabilities in popular open source Fediverse software.
+
+This is a new program and we want to gather data about how contributors will engage with it, the Fund will allocate a maximum of $5,000 USD between April 1, 2025 and the end of September 30, 2025."""
+callToAction = "Learn more"

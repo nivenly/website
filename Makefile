@@ -6,10 +6,13 @@ all: hugo dev clean
 clean:
 	rm -rf public node_modules .hugo-build.lock
 
+validate:
+	(cd data && ./validate.sh)
+
 issues: ## Find all the FIXMEs
 	grep -ri "FIXME" content/en/
 
-hugo: ## Build the hugo site for CI
+hugo: validate
 	npm ci
 	hugo --minify
 

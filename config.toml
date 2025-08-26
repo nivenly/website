@@ -14,6 +14,12 @@ enableRobotsTXT = true
 enableGitInfo = true
 enableEmoji = true
 
+ignoreFiles = [
+    "data/validate.sh",
+    "data/projects/README.md",
+    "data/projects/*.schema.json"
+]
+
 # Comment out to enable taxonomies in Docsy
 # disableKinds = ["taxonomy", "taxonomyTerm"]
 

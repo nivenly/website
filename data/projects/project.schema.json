@@ -1,0 +1,30 @@
+{
+  "$id": "https://nivenly.org/project.schema.json",
+  "title": "",
+  "description": "",
+  "type": "object",
+  "properties": {
+    "name": {
+      "description": "The project's name as it should appear in lists, cards, etc.",
+      "type": "string"
+    },
+    "projectUrl": {
+      "description": "Best URL to use when linking to the project in general (e.g., if making `name` a link to the project). May be a full URL, or may be relative to the Nivenly website.",
+      "type": "string"
+    },
+    "logoUrl": {
+      "description": "Best URL to use as the project's logo.",
+      "type": "string"
+    },
+    "description": {
+      "description": "Long form project description. May contain multiple paragraphs. Will be passed through the `markdownify` filter before use, so can contain Markdown markup.",
+      "type": "string"
+    },
+    "callToAction": {
+      "description": "Short text to use as the call to action for this project",
+      "type": "string"
+    }
+  },
+  "required": ["name", "projectUrl", "logoUrl", "description"],
+  "additionalProperties": false
+}

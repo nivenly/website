@@ -1,0 +1,14 @@
+<div class="card">
+    <div class="card-body">
+        {{ if .projectUrl }}<a href="{{ .projectUrl }}">{{ end }}
+            <img src="{{ .logoUrl }}" class="card-img-top" draggable="false" alt="Logo for {{ .name }}" />
+            <h5 class="card-title section-head">{{ .name }}</h5>
+        {{ if .projectUrl }}</a>{{ end }}
+        <p>{{ .description | markdownify }}</p>
+    </div>
+    {{ if .projectUrl }}
+    <div class="card-footer">
+        <a href="{{ .projectUrl }}">{{ if .callToAction }}{{ .callToAction }}{{ else }}Project Website{{ end }}</a>
+    </div>
+    {{ end }}
+</div>
