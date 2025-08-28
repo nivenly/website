@@ -19,7 +19,7 @@ Thank you for your interest in supporting Nivenly Foundation, there are a number
 
 As a [general member](/governance#general-membership) you help shape the Foundation by participating in the [governance](/governance) process. This means you can vote on the decisions of the Nivenly Foundation.
 
-General membership is open to anyone who agress to abide by the  [Nivenly Covenant](https://nivenly.org/covenant/), and costs $7.00 USD/per month.
+General membership is open to anyone who agress to abide by the  [Nivenly Covenant](https://nivenly.org/covenant/), and costs $7.00 USD/per month plus fees.
 
 <p><a class="btn btn-lg btn-secondary" href="https://opencollective.com/nivenly-foundation/contribute/general-membership-individual-52378/checkout?interval=month&amount=7&name=&legalName=&email=" target="_blank">
   Join as a General Member
@@ -31,13 +31,14 @@ General membership is open to anyone who agress to abide by the  [Nivenly Covena
 
 You can also donate to the Foundation without becoming a member on either a one-off or recurring basis.
 
-Donations can be made either through Open Collective or GitHub Sponsors.
+Donations can be made either through GitHub Sponsors.
 
-<!-- TODO: This should link to the correct place when it's created -->
+<!-- TODO: This should link to the correct place when it's created 
 
 <p><a class="btn btn-lg btn-secondary" href="https://opencollective.com/nivenly-foundation/contribute/general-membership-individual-52378/checkout?interval=month&amount=7&name=&legalName=&email=" target="_blank">
   Donate through Open Collective
 </a></p>
+-->
 
 <p><a class="btn btn-lg btn-secondary" href="https://github.com/sponsors/nivenly" target="_blank">
   Donate through GitHub Sponsors
