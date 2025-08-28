@@ -31,7 +31,7 @@ General membership is open to anyone who agress to abide by the  [Nivenly Covena
 
 You can also donate to the Foundation without becoming a member on either a one-off or recurring basis.
 
-Donations can be made either through GitHub Sponsors.
+Donations can be made through GitHub Sponsors:
 
 <!-- TODO: This should link to the correct place when it's created 
 
