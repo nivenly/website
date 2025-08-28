@@ -117,7 +117,7 @@ Please fill in [this form](https://docs.google.com/forms/d/e/1FAIpQLSdxWsU24HflO
 
 ## Financially supporting Nivenly & the Fund
 
-See [Financial Support](/donate) for more information about financial support for the Nivenly Foundation and projects like the Fediverse Security Fund.
+See [Financial Support](/donate) for more information about financially supporting the Nivenly Foundation and projects like the Fediverse Security Fund.
 
 ## Fund Program Administrators
 
