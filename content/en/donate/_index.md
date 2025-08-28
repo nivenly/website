@@ -21,36 +21,36 @@ As a [general member](/governance#general-membership) you help shape the Foundat
 
 General membership is open to anyone who agress to abide by the  [Nivenly Covenant](https://nivenly.org/covenant/), and costs $7.00 USD/per month plus fees.
 
-<p><a class="btn btn-lg btn-secondary" href="https://opencollective.com/nivenly-foundation/contribute/general-membership-individual-52378/checkout?interval=month&amount=7&name=&legalName=&email=" target="_blank">
+<p><a class="btn btn-lg btn-secondary mb-3" href="https://opencollective.com/nivenly-foundation/contribute/general-membership-individual-52378/checkout?interval=month&amount=7&name=&legalName=&email=" target="_blank">
   Join as a General Member
 </a></p>
 
-## Donations without membership
+<hr class="my-5" />
 
-### Foundation donations
+## Donations
 
-You can also donate to the Foundation without becoming a member on either a one-off or recurring basis.
-
-Donations can be made through GitHub Sponsors:
+You can also donate to Nivenly Foundation without becoming a member on either a one-off or recurring basis. Donations can currently be made through GitHub Sponsors:
 
 <!-- TODO: This should link to the correct place when it's created 
 
-<p><a class="btn btn-lg btn-secondary" href="https://opencollective.com/nivenly-foundation/contribute/general-membership-individual-52378/checkout?interval=month&amount=7&name=&legalName=&email=" target="_blank">
+<p><a class="btn btn-primary" href="https://opencollective.com/nivenly-foundation/contribute/general-membership-individual-52378/checkout?interval=month&amount=7&name=&legalName=&email=" target="_blank">
   Donate through Open Collective
 </a></p>
 -->
 
-<p><a class="btn btn-lg btn-secondary" href="https://github.com/sponsors/nivenly" target="_blank">
+<p><a class="btn btn-primary mb-3" href="https://github.com/sponsors/nivenly" target="_blank">
   Donate through GitHub Sponsors
 </a></p>
 
 ### Project donations
 
-If you prefer to support [individual Nivenly Foundation projects](/projects) you can also do that through each project's Open Collective page.
+If you would prefer to support [individual Nivenly Foundation projects](/projects) instead, you can also do that through each project's Open Collective page:
 
-<p><a class="btn btn-lg btn-secondary" href="https://opencollective.com/nivenly-foundation/projects" target="_blank">
+<p><a class="btn btn-primary mb-3" href="https://opencollective.com/nivenly-foundation/projects" target="_blank">
   View projects on Open Collective
 </a></p>
+
+<hr class="my-5" />
 
 ## Nivenly Store
 
