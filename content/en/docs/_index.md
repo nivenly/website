@@ -142,7 +142,7 @@ its projects Hachyderm and Aurae. Note that the product search bar is for the Ni
 
 ##### How can I financially support the Nivenly Foundation?
 
-See the [Financial Support](/donate) page.
+See [Financial Support](/donate) for more information about financially supporting the Nivenly Foundation.
 
 #### How can I help the Nivenly Foundation?
 
