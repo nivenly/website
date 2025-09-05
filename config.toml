@@ -10,8 +10,8 @@ enableMissingTranslationPlaceholders = true
 
 enableRobotsTXT = true
 
-# Will give values to .Lastmod etc.
-enableGitInfo = true
+# Disable fetching and displaying git commit info on some pages.
+enableGitInfo = false
 enableEmoji = true
 
 ignoreFiles = ["data/validate.sh", "data/(.*).schema.json", "data/README.md"]
