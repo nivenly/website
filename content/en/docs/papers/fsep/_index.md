@@ -10,7 +10,8 @@ description: >
 
 Title: Federation Safety Enahncement Project<br />
 v1.0 Author: [Roland X. Pulliam](https://roiskinda.cool/) <a href="https://ubiqueros.com/@Are0h"><i class="fa-brands fa-mastodon"></i></a><br />
-Contributors:  [The Bad Space](https://thebad.space/), [IFTAS](https://about.iftas.org/), [Nivenly Foundation](https://nivenly.org), [Oliphant.social](https://oliphant.social/), as well as many individuals who provided feedback and expertise. Thank you!
+Contributors:  [The Bad Space](https://thebad.space/), [IFTAS](https://about.iftas.org/), [Nivenly Foundation](https://nivenly.org), [Oliphant.social](https://oliphant.social/), as well as many individuals who provided feedback and expertise. Thank you!<br />
+Status: On Hold / Paused (pending return of maintainer or new maintainer)
 
 **Table of Contents**
 
