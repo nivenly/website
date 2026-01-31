@@ -2,7 +2,7 @@
 title: "hachyderm.general Ansible Collection v1.0.0 Released"
 linkTitle: "hachyderm.general Ansible Released"
 date: 2026-01-31
-author: Preston Doster ([@esk@hachyderm.io](https://hachyderm.io/@esk))
+author: Hachyderm Team ([@hachyderm@hachyderm.io](https://hachyderm.io/@hachyderm))
 ---
 
 [Hachyderm](https://hachyderm.io/about), as part of its committment to furthering the open source community, is open sourcing the [Ansible](https://docs.ansible.com/) code is uses to run Hachyderm's infrastructure, starting with a series of [postgresql](https://www.postgresql.org/) related roles. 
