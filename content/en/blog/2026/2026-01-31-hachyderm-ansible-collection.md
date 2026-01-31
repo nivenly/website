@@ -27,4 +27,4 @@ In the future, we plan to release additional Ansible roles, including:
 - Mastodon on VM installation and configuration (web, streaming, sidekiq)
 - Hachyderm's edge CDN reference architecture
 
-You can read more here about [Hachyderm](https://hachyderm.io/about) and the Nivenly Foundation.
+You can read more here about [Hachyderm](https://hachyderm.io/about) and the [Nivenly Foundation](https://nivenly.org/about/).
