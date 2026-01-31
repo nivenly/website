@@ -5,7 +5,7 @@ date: 2026-01-31
 author: Hachyderm Team ([@hachyderm@hachyderm.io](https://hachyderm.io/@hachyderm))
 ---
 
-[Hachyderm](https://hachyderm.io/about), as part of its committment to furthering the open source community, is open sourcing the [Ansible](https://docs.ansible.com/) code is uses to run Hachyderm's infrastructure, starting with a series of [postgresql](https://www.postgresql.org/) related roles. 
+[Hachyderm](https://hachyderm.io/about), as part of its committment to contributing back to the open source community, is open sourcing the [Ansible](https://docs.ansible.com/) code is uses to run Hachyderm's infrastructure, starting with a series of [postgresql](https://www.postgresql.org/) related roles. 
 
 One of the biggest challenges facing larger Mastodon instances is proper caretaking of its database(s). Databases as a Service (DBaaS) can be prohibitively expensive for many organizations, pushing these teams toward self-hosting. Self-hosting successfully, especially at scale, requires getting many small details right or risking poor performance -- or worse -- lost data. 
 
