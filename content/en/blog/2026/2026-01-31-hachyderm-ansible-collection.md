@@ -15,7 +15,7 @@ The roles in this collection install and configure PostgreSQL in both standalone
 
 Included in [this collection](https://galaxy.ansible.com/ui/repo/published/hachyderm/general/docs/) are roles to configure:
 
-- [PostgreSQL](https://www.postgresql.org/)
+- [postgresql](https://www.postgresql.org/)
 - [pgbackrest](https://pgbackrest.org/) for backup management and [pgbackrest_exporter](https://github.com/woblerr/pgbackrest_exporter) for metrics
 - [pgbouncer](https://www.pgbouncer.org/) for connection management and [pgbouncer_exporter](https://github.com/prometheus-community/pgbouncer_exporter) for metrics
 
