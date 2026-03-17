@@ -5,13 +5,13 @@ date: 2026-01-31
 author: Hachyderm Team ([@hachyderm@hachyderm.io](https://hachyderm.io/@hachyderm))
 ---
 
-[Hachyderm](https://hachyderm.io/about), as part of its committment to contributing back to the open source community, is open sourcing the [Ansible](https://docs.ansible.com/) code is uses to run Hachyderm's infrastructure, starting with a series of [postgresql](https://www.postgresql.org/) related roles. 
+[Hachyderm](https://hachyderm.io/about), as part of its committment to contributing back to the open source community, is open sourcing the [Ansible](https://docs.ansible.com/) code is uses to run Hachyderm's infrastructure, starting with a series of [PostgreSQL](https://www.postgresql.org/) related roles. 
 
 One of the biggest challenges facing larger Mastodon instances is proper caretaking of its database(s). Databases as a Service (DBaaS) can be prohibitively expensive for many organizations, pushing these teams toward self-hosting. Self-hosting successfully, especially at scale, requires getting many small details right or risking poor performance -- or worse -- lost data. 
 
 Hachyderm has been through it all: we've gone from a tiny server in Kris Nova's basement -- hi, `alice`! -- to one of the largest Fediverse instances today. Along the way, we've broken postgres in countless ways, lost data, and restored data. We've learned **a lot**, and we've baked in what we've learned about reliably and safely running one of the Fediverse's larger [Mastodon](https://joinmastodon.org/) sites into these roles.
 
-The roles in this collection install and configure postgresql in both standalone and multi-node layouts (primary + replicas). They also configure regular backups, a key component of the [Mastodon Server Covenant](https://joinmastodon.org/covenant).
+The roles in this collection install and configure PostgreSQL in both standalone and multi-node layouts (primary + replicas). They also configure regular backups, a key component of the [Mastodon Server Covenant](https://joinmastodon.org/covenant).
 
 Included in [this collection](https://galaxy.ansible.com/ui/repo/published/hachyderm/general/docs/) are roles to configure:
 
