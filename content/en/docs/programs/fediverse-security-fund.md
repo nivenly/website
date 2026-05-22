@@ -60,6 +60,7 @@ The following projects are currently included and meet the above minimum require
 * [BotKit by Fedify](https://botkit.fedify.dev/)
 * [Bookwyrm](https://github.com/bookwyrm-social/bookwyrm/)
 * [Bridgy Fed](https://github.com/snarfed/bridgy-fed)
+* [Castopod](https://code.castopod.org/adaures/castopod)
 * [Diaspora Federation](https://github.com/diaspora/diaspora_federation)
 * [Fedify](https://fedify.dev/)
 * [Forgejo](https://forgejo.org/)
@@ -72,14 +73,15 @@ The following projects are currently included and meet the above minimum require
 * [Manyfold](https://github.com/manyfold3d/manyfold)
 * [Mastodon](https://github.com/mastodon/mastodon)
 * [Misskey](https://github.com/misskey-dev/misskey)
+* [Mitra](https://codeberg.org/silverpill/mitra)
 * [NeoDB](https://github.com/neodb-social/neodb/)
 * [NodeBB](https://nodebb.org/)
 * [PeerTube](https://github.com/Chocobozzz/PeerTube)
-* [Pixelfed](https://github.com/pixelfed/pixelfed)
 * [Piefed](https://join.piefed.social/)
 * [Pleroma](https://git.pleroma.social/pleroma/pleroma)
 * [Owncast](https://github.com/owncast/owncast/)
 * [Sharkey](https://activitypub.software/TransFem-org/Sharkey)
+* [Vernissage (server)](https://github.com/VernissageApp/VernissageServer)
 * [WriteFreely](https://github.com/writefreely/writefreely)
 * [Wafrn](https://github.com/gabboman/wafrn)
 
@@ -90,17 +92,14 @@ Don’t see the project you were expecting? Raise a ticket at [nivenly/community
 
 These projects are included within the Fund, however, their responsible security vulnerability disclosure practices need to be improved to continue to be considered eligible for the Fund beyond September 30, 2025.
 
-* [Castopod](https://code.castopod.org/adaures/castopod)
 * [Discourse ActivityPub Plugin](https://github.com/discourse/discourse-activity-pub)
 * [Emissary](https://github.com/EmissarySocial/emissary)
 * [Flohmarkt](https://codeberg.org/flohmarkt/flohmarkt)
 * [Friendica](https://github.com/friendica/friendica)
 * [Funkwhale](https://dev.funkwhale.audio/funkwhale/funkwhale)
-* [Mitra](https://codeberg.org/silverpill/mitra)
 * [Postmarks](https://github.com/ckolderup/postmarks)
 * [Snac2](https://codeberg.org/grunfink/snac2)
 * [Smithereen](https://github.com/grishka/Smithereen)
-* [Vernissage (server)](https://github.com/VernissageApp/VernissageServer)
 
 
 Projects can let us know of changes to their security practices via a ticket at [nivenly/community](https://github.com/nivenly/community/issues).
