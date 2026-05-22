@@ -1,0 +1,51 @@
+name: Update screenshots
+on:
+  pull_request:
+
+jobs:
+  playwright:
+    timeout-minutes: 60
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          lfs: true
+          ref: ${{ github.head_ref }}
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          # make sure to update .tool-versions as well!
+          hugo-version: "0.147.3"
+          extended: true
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 10
+      - uses: actions/setup-node@v4
+        with:
+          node-version: lts/*
+          cache: 'pnpm'
+      - uses: actions/cache@v4
+        id: playwright-cache
+        with:
+          path: |
+            ~/.cache/ms-playwright
+          key: ${{ runner.os }}-playwright-${{ hashFiles('**/package-lock.json') }}
+      - name: Install dependencies
+        run: pnpm install
+      - name: Install Playwright Browsers and system dependencies
+        run: pnpm exec playwright install --with-deps
+        if: steps.playwright-cache.outputs.cache-hit != 'true'
+      - name: Install Playwright system dependencies
+        run: pnpm exec playwright install-deps
+        if: steps.playwright-cache.outputs.cache-hit == 'true'
+      - name: Delete existing screenshots, in case a test has been deleted
+        run: git rm --ignore-unmatch -r screenshots && rm -rf screenshots/*
+      - name: Run Playwright tests
+        run: pnpm exec playwright test --update-snapshots
+      - name: Commit and push updated screenshots
+        uses: stefanzweifel/git-auto-commit-action@v7
+        with:
+          commit_message: 'Update screenshots'
